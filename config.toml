@@ -53,7 +53,7 @@ uglyURLs = true
   weight = 3
 
   [[menu.footer]]
-  name = "Inicio de síntomas"
+  name = "Casos en México"
   URL = "#nacional_sintomas"
   weight = 4
 
