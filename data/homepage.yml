@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "CoronaMex"
   subtitle: "Datos y análisis sobre el COVID-19 en México."
-  description: '<p>Los datos sobre México fueron recolectados
+  description: '<p>Los datos de México fueron recolectados
   a partir de los comunicados técnicos diarios y las tablas
   de casos confirmados de la Dirección General de Epidemiología
   de la Secretaría de Salud. Las tablas están disponibles en
@@ -11,7 +11,7 @@ showcase:
   <p>Los datos de otros países fueron obtenidos obtenidos del
   <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">repositorio
   de la Universidad John Hopkins</a>.</p>
-  <p>Si encuentran algún error con los datos de
+  <p>Si encuentran algún error con los datos favor de
   <a href="https://github.com/coronamex/datos/issues" target="_blank">reportarlo</a>.</p>
   <p>Los datos son recolectados por
   <a href="https://profiles.stanford.edu/sur-herrera-paredes" target="_blank">
@@ -27,8 +27,8 @@ showcase:
 casos:
   enable: true
   title: "Casos acumulados"
-  content: '<p>Esta gráfica compara el avance de la  edpidemia
-  entre varios paises a partir del día en que cada país detectó
+  content: '<p>Esta gráfica compara el avance de la  epidemia
+  entre varios países a partir del día en que cada país detectó
   al caso 60.</p>
   <p>El eje verical de la gráfica está en escala logarítmica.
   Esto significa que si el crecimiento se ve como una línea recta
@@ -44,8 +44,8 @@ muertes:
   enable: true
   title: "Muertes acumuladas"
   content: '<p>Esta gráfica es similar a la anterior pero
-  compara el número total de muertes en varios paises a partir
-  de que cada pais detectó al caso 60.</p>
+  compara el número total de muertes en varios países a partir
+  de que cada país detectó al caso 60.</p>
   <p>El número de muertes es mucho más variable que el número de
   casos. Esto sucede porque la letalidad de una enfermedad
   no sólo depende de la tasa de infección sino también otros
