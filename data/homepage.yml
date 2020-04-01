@@ -67,3 +67,21 @@ nacional_sintomas:
   image:
     x: "imagenes/inicio_sintomas_por_fecha_nacional.jpeg"
     _2x: "imagenes/inicio_sintomas_por_fecha_nacional@2x.jpeg"
+
+# Estados
+estados:
+  enable: true
+  title: "Situación en los estados"
+  content: '<p>Los lugares con más población siempre tienen más
+  casos y por lo tanto el número total de casos no refleja
+  la fase de la epidemia. En cambio, la cantidad de casos
+  normalizada por población es un mejor indicador de qué tanto
+  a penetrado la epidemia en una región</[]>
+  <p>Esta gráfica muestra el número de casos por cada 100 mil
+  habitantes (población de 2015)
+  en los últimos días en varias entidades federativas.</p>
+  <p>Sólo se muestran entidades federativas con al menos 1 caso
+  por 100 mil habitantes</p>'
+  image:
+    x: "imagenes/casos_100mil_estados.jpeg"
+    _2x: "imagenes/casos_100mil_estados@2x.jpeg"
