@@ -1,0 +1,69 @@
+# Inicio
+showcase:
+  enable: true
+  title: "CoronaMex"
+  subtitle: "Datos y análisis sobre el COVID-19 en México."
+  description: '<p>Los datos sobre México fueron recolectados
+  a partir de los comunicados técnicos diarios y las tablas
+  de casos confirmados de la Dirección General de Epidemiología
+  de la Secretaría de Salud. Las tablas están disponibles en
+  <a href="https://github.com/coronamex/datos" target="_blank">coronamex/datos</a>.</p>
+  <p>Los datos de otros países fueron obtenidos obtenidos del
+  <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">repositorio
+  de la Universidad John Hopkins</a>.</p>
+  <p>Si encuentran algún error con los datos de
+  <a href="https://github.com/coronamex/datos/issues" target="_blank">reportarlo</a>.</p>
+  <p>Los datos son recolectados por
+  <a href="https://profiles.stanford.edu/sur-herrera-paredes" target="_blank">
+  Sur Herrera Paredes</a> y se
+  actualizan cada noche alrededor de las 19:00 GMT-6</p>'
+  socialLinks:
+    - icon: "github"
+      URL: "https://github.com/coronamex"
+    - icon: "twitter"
+      URL: "https://twitter.com/sur_hp"
+
+# Casos totales
+casos:
+  enable: true
+  title: "Casos acumulados"
+  content: '<p>Esta gráfica compara el avance de la  edpidemia
+  entre varios paises a partir del día en que cada país detectó
+  al caso 60.</p>
+  <p>El eje verical de la gráfica está en escala logarítmica.
+  Esto significa que si el crecimiento se ve como una línea recta
+  se trata en realidad de un aumento exponencial en el número
+  de casos.</p>'
+  image:
+    x: "imagenes/casos_acumulados_por_dia.jpeg"
+    _2xx: "imagenes/casos_acumulados_por_dia.jpeg"
+
+
+# Muertes acumuladas
+muertes:
+  enable: true
+  title: "Muertes acumuladas"
+  content: '<p>Esta gráfica es similar a la anterior pero
+  compara el número total de muertes en varios paises a partir
+  de que cada pais detectó al caso 60.</p>
+  <p>El número de muertes es mucho más variable que el número de
+  casos. Esto sucede porque la letalidad de una enfermedad
+  no sólo depende de la tasa de infección sino también otros
+  factores como la frequencia de comorbilidades y la calidad
+  de los servicios médicos, entre otros.</p>'
+  image:
+    x: "imagenes/muertes_acumuladas_por_dia.jpeg"
+    _2xx: "imagenes/muertes_acumuladas_por_dia.jpeg"
+
+# Muertes acumuladas
+nacional_sintomas:
+  enable: true
+  title: "Casos en México"
+  content: "<p>Esta gráfica muestra el número de casos en México
+  de acuerdo a la fecha en que empezaron a mostrar síntomas.</p>
+  <p>Debido a que pueden pasar hasta dos semanas para que
+  las personas infectadas muestren síntomas, no podemos saber
+  el número real de nuevas infecciones en los últimos días.</p>"
+  image:
+    x: "imagenes/inicio_sintomas_por_fecha_nacional.jpeg"
+    _2xx: "imagenes/inicio_sintomas_por_fecha_nacional.jpeg"

@@ -1,0 +1,73 @@
+baseURL = "https://coronamex.github.io"
+languageCode = "es-mx"
+theme = "raditian"
+relativeURLs = true
+uglyURLs = true
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "Casos acumulados"
+  URL = "#casos"
+  weight = 2
+
+  [[menu.header]]
+  name = "Muertes acumuladas"
+  URL = "#muertes"
+  weight = 3
+
+  [[menu.header]]
+  name = "Casos en México"
+  URL = "#nacional_sintomas"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Casos acumulados"
+  URL = "#casos"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Muertes acumuladas"
+  URL = "#muertes"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Inicio de síntomas"
+  URL = "#nacional_sintomas"
+  weight = 4
+
+[params]
+
+  # googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = ""
+    text2 = ""
+
+  [params.footer]
+      copyright = "Copyright © Sur Herrera Paredes. CC BY-NC 4."
+      [params.footer.radity_logo]
+        x = ""
+        _2x = ""
+        alt = ""
