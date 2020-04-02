@@ -28,34 +28,24 @@ uglyURLs = true
 [menu]
 
   [[menu.header]]
-  name = "Casos acumulados"
-  URL = "#casos"
+  name = "Curvas epidémicas"
+  URL = "#mejor_curva"
   weight = 2
 
   [[menu.header]]
-  name = "Muertes acumuladas"
-  URL = "#muertes"
+  name = "México"
+  URL = "#nacional_sintomas"
   weight = 3
 
-  [[menu.header]]
-  name = "Casos en México"
-  URL = "#nacional_sintomas"
-  weight = 4
-
   [[menu.footer]]
-  name = "Casos acumulados"
-  URL = "#casos"
+  name = "Curvas epidémicas"
+  URL = "#mejor_curva"
   weight = 2
 
   [[menu.footer]]
-  name = "Muertes acumuladas"
-  URL = "#muertes"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Casos en México"
+  name = "México"
   URL = "#nacional_sintomas"
-  weight = 4
+  weight = 3
 
 [params]
 
@@ -68,6 +58,6 @@ uglyURLs = true
   [params.footer]
       copyright = "Copyright © Sur Herrera Paredes. CC BY-NC 4."
       [params.footer.radity_logo]
-        x = ""
-        _2x = ""
-        alt = ""
+        x = "imagenes/logo1.png"
+        _2x = "imagenes/logo1.png"
+        alt = "CoronaMex"

@@ -24,6 +24,28 @@ showcase:
       URL: "https://twitter.com/sur_hp"
 
 # Casos totales
+mejor_curva:
+  enable: true
+  title: "Aplanando la curva"
+  content: '<p>La velocidad con la que incrementan los casos es uno de
+  los indicadores más importantes del estado de una epidemia
+  porque nos permite estimar cuantos nuevos casos habrá
+  en los próximos días.</p>
+  <p>Esta gráfica muestra el crecimiento
+  diario en el número de casos (promediado en los 7 días anteriores),
+  dado el número total de casos reportados hasta un momento determinado.
+  Una línea horizontal indicaría un crecimiento exponencial.</p>
+  <p>La gráfica muestra que la epidemia en
+  <span style="background-color: #cab2d6">México</span>
+  ha crecido algo más lentamente que si fuera exponencial
+  (porque la línea decrece). Sin embargo, esta tendencia puede
+  cambiar en cualquier momento como pasó en varios países.
+  Por eso es importante <strong>Quedarse en Casa</strong>.</p>'
+  image:
+    x: "imagenes/incremento_por_casos.jpeg"
+    _2x: "imagenes/incremento_por_casos@2x.jpeg"
+
+# Casos totales
 casos:
   enable: true
   title: "Casos acumulados"
