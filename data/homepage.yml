@@ -42,8 +42,8 @@ mejor_curva:
   cambiar en cualquier momento como pasó en varios países.
   Por eso es importante <strong>Quedarse en Casa</strong>.</p>'
   image:
-    x: "imagenes/incremento_por_casos.jpeg"
-    _2x: "imagenes/incremento_por_casos@2x.jpeg"
+    x: "imagenes/incremento_por_casos.png"
+    _2x: "imagenes/incremento_por_casos@2x.png"
 
 # Casos totales
 casos:
@@ -57,8 +57,8 @@ casos:
   se trata en realidad de un aumento exponencial en el número
   de casos.</p>'
   image:
-    x: "imagenes/casos_acumulados_por_dia.jpeg"
-    _2x: "imagenes/casos_acumulados_por_dia@2x.jpeg"
+    x: "imagenes/casos_acumulados_por_dia.png"
+    _2x: "imagenes/casos_acumulados_por_dia@2x.png"
 
 
 # Muertes acumuladas
@@ -74,8 +74,8 @@ muertes:
   factores como la frequencia de comorbilidades y la calidad
   de los servicios médicos, entre otros.</p>'
   image:
-    x: "imagenes/muertes_acumuladas_por_dia.jpeg"
-    _2x: "imagenes/muertes_acumuladas_por_dia@2x.jpeg"
+    x: "imagenes/muertes_acumuladas_por_dia.png"
+    _2x: "imagenes/muertes_acumuladas_por_dia@2x.png"
 
 # Muertes acumuladas
 nacional_sintomas:
@@ -87,8 +87,8 @@ nacional_sintomas:
   las personas infectadas muestren síntomas, no podemos saber
   el número real de nuevas infecciones en los últimos días.</p>"
   image:
-    x: "imagenes/inicio_sintomas_por_fecha_nacional.jpeg"
-    _2x: "imagenes/inicio_sintomas_por_fecha_nacional@2x.jpeg"
+    x: "imagenes/inicio_sintomas_por_fecha_nacional.png"
+    _2x: "imagenes/inicio_sintomas_por_fecha_nacional@2x.png"
 
 # Estados
 estados:
@@ -101,8 +101,7 @@ estados:
   ha penetrado la epidemia en una región</[]>
   <p>Esta gráfica muestra el número de casos por cada 100 mil
   habitantes (población de 2015) en los 10 últimos días en las
-  entidades federativas con al menos 1 caso
-  por 100 mil habitantes.</p>'
+  32 entidades federativas del país.</p>'
   image:
-    x: "imagenes/casos_100mil_estados.jpeg"
-    _2x: "imagenes/casos_100mil_estados@2x.jpeg"
+    x: "imagenes/casos_100mil_estados.png"
+    _2x: "imagenes/casos_100mil_estados@2x.png"
