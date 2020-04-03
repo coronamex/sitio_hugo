@@ -100,10 +100,9 @@ estados:
   normalizada por población es un mejor indicador de qué tanto
   ha penetrado la epidemia en una región</[]>
   <p>Esta gráfica muestra el número de casos por cada 100 mil
-  habitantes (población de 2015)
-  en los últimos días en varias entidades federativas.</p>
-  <p>Sólo se muestran entidades federativas con al menos 1 caso
-  por 100 mil habitantes</p>'
+  habitantes (población de 2015) en los 10 últimos días en las
+  entidades federativas con al menos 1 caso
+  por 100 mil habitantes.</p>'
   image:
     x: "imagenes/casos_100mil_estados.jpeg"
     _2x: "imagenes/casos_100mil_estados@2x.jpeg"
