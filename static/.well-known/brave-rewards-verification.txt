@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: coronamex.github.io
+Token: c297a1d981c59fb80067705f1e4d1f5fde17f11853ed959c134832f882d710b7
