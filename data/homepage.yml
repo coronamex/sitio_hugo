@@ -90,6 +90,23 @@ nacional_sintomas:
     x: "imagenes/inicio_sintomas_por_fecha_nacional.png"
     _2x: "imagenes/inicio_sintomas_por_fecha_nacional@2x.png"
 
+# Comunitarios
+comunitarios:
+  enable: true
+  title: "La epidemia se acelera"
+  content: '<p>La <a href="#casos">curva epidemiológica</a> sugiere
+  que los casos en México han crecido más lentamente que en otros
+  países. Sin embargo las primeras semanas de la epidemia se
+  se constituyeron casi enteramente de casos importados.</p>
+  <p>Cuando miramos los casos de transmisión comunitaria podemos ver
+  que están creciendo a mayor velocidad que los casos importados.</p>
+  <p>Por eso es crítico seguir las recomendaciones de
+  la sana distancia y <strong>Quedarse en casa</strong>.</p>'
+  image:
+    x: "imagenes/casos_acumulados_comunitarios_importados.png"
+    _2x: "imagenes/casos_acumulados_comunitarios_importados@2x.png"
+
+
 # Estados
 estados:
   enable: true
