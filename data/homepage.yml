@@ -53,7 +53,7 @@ casos:
   entre varios países a partir del día en que cada país detectó
   al caso 60.</p>
   <p>El eje verical de la gráfica está en escala logarítmica.
-  Esto significa que si el crecimiento se ve como una línea recta
+  Esto significa que si el crecimiento se ve como una línea recta,
   se trata en realidad de un aumento exponencial en el número
   de casos.</p>'
   image:
@@ -65,13 +65,14 @@ casos:
 muertes:
   enable: true
   title: "Muertes acumuladas"
-  content: '<p>Esta gráfica es similar a la anterior pero
+  content: '<p>Esta gráfica es similar a la anterior, pero
   compara el número total de muertes en varios países a partir
   de que cada país detectó al caso 60.</p>
   <p>El número de muertes es mucho más variable que el número de
-  casos. Esto sucede porque la letalidad de una enfermedad
+  casos. Esto sucede porque  hay menos muertes que casos, pero
+  también porque la letalidad de una enfermedad
   no sólo depende de la tasa de infección sino también otros
-  factores como la frequencia de comorbilidades y la calidad
+  factores como la frecuencia de comorbilidades y la calidad
   de los servicios médicos, entre otros.</p>'
   image:
     x: "imagenes/muertes_acumuladas_por_dia.png"
@@ -145,10 +146,31 @@ estados:
   casos y por lo tanto el número total de casos no refleja
   la fase de la epidemia. En cambio, la cantidad de casos
   normalizada por población es un mejor indicador de qué tanto
-  ha penetrado la epidemia en una región</[]>
+  ha penetrado la epidemia en una región.</p>
   <p>Esta gráfica muestra el número de casos por cada 100 mil
   habitantes (población de 2015) en los 10 últimos días en las
   32 entidades federativas del país.</p>'
   image:
     x: "imagenes/casos_100mil_estados.png"
     _2x: "imagenes/casos_100mil_estados@2x.png"
+
+
+# Estados comunitarios
+inicio_comunitarios:
+  enable: true
+  title: "¿Cuándo inició la transmisión comunitaria?"
+  content: '<p>El primer caso en México de una persona que no viajó al
+  extranjero mostró síntomas el 17 de febrero en la Ciudad de México.
+  Para el 25 de marzo, todos los estados habían detectado al menos un
+  caso de este tipo.</p>
+  <p>Para cuando iniciaron las medidas de sana distancia (23 de marzo),
+  30 de los 32 estados ya tenían transmisión comunitaria. Sin embargo,
+  los datos oficiales mostraban 17 estados con este tipo de casos.</p>
+  <p>En general hubo una mediana de 10 días de retraso entre el inicio de
+  la transmisión comunitaria en una entidad y su detección.</p>
+  <p>NOTA: Los datos de detección antes del 14 de marzo están incompletos.
+  Es posible que la detección de transmisión comunitaria en la CdMX o en
+  Querétaro haya ocurrido antes.</p>'
+  image:
+    x: "imagenes/inicio_comunitarios.png"
+    _2x: "imagenes/inicio_comunitarios@2x.png"
