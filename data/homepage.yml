@@ -136,8 +136,8 @@ comunitarios:
   <p>NOTA: El 2020-04-06 la Secretaría de Salud dejó de proveer la
   fecha de llegada a México de los casos confirmados. Esto hace más
   difícil distinguir entre casos comunitarios e importados. Es posible que
-  los números en esta gráfica no sean del todo precisos. Pero las
-  tendencias son claras</p>'
+  los números en esta gráfica no sean del todo precisos, pero las
+  tendencias son claras.</p>'
   image:
     x: "imagenes/casos_acumulados_comunitarios_importados.png"
     _2x: "imagenes/casos_acumulados_comunitarios_importados@2x.png"
