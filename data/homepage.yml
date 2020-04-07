@@ -132,7 +132,12 @@ comunitarios:
   <p>Cuando miramos los casos de transmisión comunitaria podemos ver
   que están creciendo a mayor velocidad que los casos importados.</p>
   <p>Por eso es crítico seguir las recomendaciones de
-  la sana distancia y <strong>Quedarse en casa</strong>.</p>'
+  la sana distancia y <strong>Quedarse en casa</strong>.</p>
+  <p>NOTA: El 2020-04-06 la Secretaría de Salud dejó de proveer la
+  fecha de llegada a México de los casos confirmados. Esto hace más
+  difícil distinguir entre casos comunitarios e importados. Es posible que
+  los números en esta gráfica no sean del todo precisos. Pero las
+  tendencias son claras</p>'
   image:
     x: "imagenes/casos_acumulados_comunitarios_importados.png"
     _2x: "imagenes/casos_acumulados_comunitarios_importados@2x.png"
@@ -170,7 +175,10 @@ inicio_comunitarios:
   la transmisión comunitaria en una entidad y su detección.</p>
   <p>NOTA: Los datos de detección antes del 14 de marzo están incompletos.
   Es posible que la detección de transmisión comunitaria en la CdMX o en
-  Querétaro haya ocurrido antes.</p>'
+  Querétaro haya ocurrido antes.</p>
+  <p>NOTA2: Esta gráfica usa datos hasta 2020-04-05 porque la Secretaría
+  de salud dejó de presentar información completa el 2020-04-06, haciendo
+  más imprecisa la distinción entre casos comunitarios e importados.</p>'
   image:
     x: "imagenes/inicio_comunitarios.png"
     _2x: "imagenes/inicio_comunitarios@2x.png"
