@@ -26,7 +26,7 @@ showcase:
 # Casos totales
 mejor_curva:
   enable: true
-  title: "Aplanando la curva"
+  title: "La curva no se está aplanando"
   content: '<p>La velocidad con la que incrementan los casos es uno de
   los indicadores más importantes del estado de una epidemia
   porque nos permite estimar cuantos nuevos casos habrá
