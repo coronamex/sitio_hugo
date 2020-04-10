@@ -37,6 +37,11 @@ uglyURLs = true
   URL = "#nacional_sintomas"
   weight = 3
 
+  [[menu.header]]
+  name = "Letalidad"
+  URL = "#letalidad"
+  weight = 4
+
   [[menu.footer]]
   name = "Curvas epidémicas"
   URL = "#mejor_curva"
@@ -46,6 +51,11 @@ uglyURLs = true
   name = "México"
   URL = "#nacional_sintomas"
   weight = 3
+
+  [[menu.footer]]
+  name = "Letalidad"
+  URL = "#letalidad"
+  weight = 4
 
 [params]
 
