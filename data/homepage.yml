@@ -42,6 +42,10 @@ mejor_curva:
   image:
     x: "imagenes/incremento_por_casos.png"
     _2x: "imagenes/incremento_por_casos@2x.png"
+    alt: 'Crecimiento de la epidemia del COVID-19 en varios países. La
+    gráfica muestra el crecimiento porcentual diario (promediado durante
+    los siete días anteriores) en el número de casos como una función
+    del número total de casos en cada país.'
 
 # Casos totales
 casos:
@@ -57,6 +61,9 @@ casos:
   image:
     x: "imagenes/casos_acumulados_por_dia.png"
     _2x: "imagenes/casos_acumulados_por_dia@2x.png"
+    alt: "Curva epidemiológica. Muestra el número de casos acumulados
+    de COVID-19 en varios países a partir del día en que se confirmó
+    el caso 60 en cada país."
 
 
 # Muertes acumuladas
@@ -75,6 +82,9 @@ muertes:
   image:
     x: "imagenes/muertes_acumuladas_por_dia.png"
     _2x: "imagenes/muertes_acumuladas_por_dia@2x.png"
+    alt: 'Curva que muestra el número de muertes acumuladas
+    por COVID-19 en varios países a partir del día en que
+    se confirmó el caso sesenta en cada país.'
 
 # Muertes acumuladas
 nacional_sintomas:
@@ -91,6 +101,12 @@ nacional_sintomas:
   image:
     x: "imagenes/inicio_sintomas_por_fecha_nacional.png"
     _2x: "imagenes/inicio_sintomas_por_fecha_nacional@2x.png"
+    alt: 'Número de casos de COVID-19 en México que empezaron
+    a mostrar síntomas en cada fecha desde el inicio de la
+    epidemia. Debido a que los contagiados pueden tardar hasta
+    15 días en mostrar síntomas parece que hay menos nuevos casos
+    en días recientes pero estos números probablemente aumentarán
+    en los próxios días.'
 
 # Modelo SIR
 sir:
@@ -120,6 +136,16 @@ sir:
   image:
     x: "imagenes/sir_nacional.png"
     _2x: "imagenes/sir_nacional@2x.png"
+    alt: 'Resultados del modelos epidemiológico compartamentalizado SEIR.
+    El modelo se ajusta con datos de COVID-19 en Méxido a nivel nacional
+    hasta la fecha indicada. Además el modelo asume que el número reproductivo
+    básico (R0) disminuye a partir de las medidas de mitigación. Los tiempos
+    de infección y de incubación son explorados en una matriz de valores,
+    mientras que R0 y el efecto de las
+    medidas de mitigación son optimizados por mínimos cuadrados. El ajuste
+    de datos utiliza las fechas de inicio de síntomas proporcionados por
+    el InDRE de la Dirección General de Epidemiología en la fecha más
+    reciente.'
 
 # Modelo SIR con datos Centinela
 # https://www.gob.mx/salud/documentos/boletinepidemiologico-sistema-nacional-de-vigilancia-epidemiologica-sistema-unico-de-informacion-231750
