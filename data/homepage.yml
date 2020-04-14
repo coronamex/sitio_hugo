@@ -3,16 +3,12 @@ showcase:
   enable: true
   title: "CoronaMex"
   subtitle: "Datos y análisis sobre el COVID-19 en México."
-  description: ' <p>Los datos de México fueron recolectados
-  a partir de los comunicados técnicos diarios y las tablas
-  de casos confirmados de la Dirección General de Epidemiología
-  de la Secretaría de Salud. Las tablas están disponibles en
+  description: ' <p>Los datos de México son tomados de la base de datos
+  publicada por la Secretaría de Salud en la plataforma de datos abiertos del
+  Gobierno de México. Todos los datos están disponibles en
   <a href="https://github.com/coronamex/datos" target="_blank">coronamex/datos</a>.
-  NOTA: A partir del 2020-04-13 la secretaría de Salud ha comenzado a publicar
-  datos más completos en la plataforma de datos abiertos. Estos datos tomarán
-  precendencia en CoronaMex, pero continúo recolectando los datos de la
-  DGE como respaldo. Ambos conjuntos de datos están disponibles en
-  <a href="https://github.com/coronamex/datos" target="_blank">coronamex/datos</a>.</p>
+  donde también están disponibles los comunicados de la Dirección General de
+  Epidemiología.</p>
   <p>Los datos de otros países fueron obtenidos obtenidos del
   <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">repositorio
   de la Universidad John Hopkins</a>.</p>
@@ -70,7 +66,6 @@ casos:
     de COVID-19 en varios países a partir del día en que se confirmó
     el caso 60 en cada país."
 
-
 # Muertes acumuladas
 muertes:
   enable: true
@@ -90,6 +85,27 @@ muertes:
     alt: 'Curva que muestra el número de muertes acumuladas
     por COVID-19 en varios países a partir del día en que
     se confirmó el caso sesenta en cada país.'
+
+# Tiempo muerte
+tiempo_muerte:
+  enable: true
+  title: ""
+  content: '<p>En México, el número de días entre el incio de
+  síntomas de COVID-19 y el fallecimiento tiene una mediana de 9 días.
+  Este número es similar la mediana de 10 días reportada en
+  <a href="https://www.epicentro.iss.it/en/coronavirus/bollettino/Report-COVID-2019_2_april_2020.pdf" target="_blank">un estudio sobre Italia</a>,
+  pero menor que la mediana de 14 días reportada entre
+  <a href="" target="_blank">algunos de los primeros casos en China</a>.</p>
+  <p>Aunque el riesgo está asociado con varias comorbilidades, sexo y edad,
+  ninguno de estos factores tiene una asociación estadísticamente significativa
+  con la duración del intervalo entre aparición de síntomas y el fallecimiento.
+  Esto podría deberse a que hay relativamente pocos fallecimientos
+  en México.</p>'
+  image:
+    x: "imagenes/tiempo_defuncion.png"
+    _2x: "imagenes/tiempo_defuncion@2x.png"
+    alt: 'Distribución del tiempo en días desde el inicio de síntomas
+    hasta la defunción.'
 
 # Muertes acumuladas
 nacional_sintomas:
