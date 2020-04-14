@@ -157,7 +157,10 @@ sir:
 sir_centinela:
   enable: true
   title: "¿Cuántos casos hay en México? (Centinela)"
-  content: '<p>El modelo de vigilancia Centinela es mucho mejor estimando el
+  content: '<p>AVISO: en estos momentos estoy evaluand las implicaciones de los
+  nuevos datos abiertos que la Secretría de Salud ha liberado. Es posible que
+  estos números cambien.</p>
+  <p>El modelo de vigilancia Centinela es mucho mejor estimando el
   el verdadero número de casos que simplemente contar casos
   confirmados. Sin embargo, sufre de la misma debilidad porque el retraso
   entre el contagio y los síntomas, hace que los casos detectados en una fecha
