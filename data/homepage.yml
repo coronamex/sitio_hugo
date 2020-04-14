@@ -3,10 +3,15 @@ showcase:
   enable: true
   title: "CoronaMex"
   subtitle: "Datos y análisis sobre el COVID-19 en México."
-  description: '<p>Los datos de México fueron recolectados
+  description: ' <p>Los datos de México fueron recolectados
   a partir de los comunicados técnicos diarios y las tablas
   de casos confirmados de la Dirección General de Epidemiología
   de la Secretaría de Salud. Las tablas están disponibles en
+  <a href="https://github.com/coronamex/datos" target="_blank">coronamex/datos</a>.
+  NOTA: A partir del 2020-04-13 la secretaría de Salud ha comenzado a publicar
+  datos más completos en la plataforma de datos abiertos. Estos datos tomarán
+  precendencia en CoronaMex, pero continúo recolectando los datos de la
+  DGE como respaldo. Ambos conjuntos de datos están disponibles en
   <a href="https://github.com/coronamex/datos" target="_blank">coronamex/datos</a>.</p>
   <p>Los datos de otros países fueron obtenidos obtenidos del
   <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">repositorio
