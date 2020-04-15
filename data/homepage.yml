@@ -173,26 +173,20 @@ sir:
 sir_centinela:
   enable: true
   title: "¿Cuántos casos hay en México? (Centinela)"
-  content: '<p>AVISO: en estos momentos estoy evaluand las implicaciones de los
-  nuevos datos abiertos que la Secretría de Salud ha liberado. Es posible que
-  estos números cambien.</p>
-  <p>El modelo de vigilancia Centinela es mucho mejor estimando el
+  content: '<p>El modelo de vigilancia Centinela es mucho mejor estimando el
   el verdadero número de casos que simplemente contar casos
-  confirmados. Sin embargo, sufre de la misma debilidad porque el retraso
-  entre el contagio y los síntomas, hace que los casos detectados en una fecha
-  correspondan al pasado. Afortunadamente, podemos usar los datos del
-  sistema Centinela con un modelo epidemiológico que nos permite proyectar el
-  número de casos en la actualidad.</p>
-  <p>Sólo tenemos
-  <a href="https://github.com/coronamex/datos/tree/master/sinave/2020"> datos
-  incompletos </a> del sistema Centinela, Los números presentados por
-  el gobierno de México
-  <a href="https://youtu.be/qPvXQ_MiZ4A?t=2613" target="_blank">
-  el 8 de abril</a> sólo incluye hasta la semana epidemiológica 13
-  que terminó el 28 de marzo.</p>
-  <p>Con esta información el modelo SEIR estima que hay cerca de 400 mil casos
-  en México. Además, las medidas de mitigación habrían reducido el número
-  reproductivo del virus en un 20%, muy lejos de lo necesario.
+  confirmados. La Secretaría de Salud ha hecho públicos sus estimados sólo
+  hasta <a href="https://youtu.be/qPvXQ_MiZ4A?t=2613" target="_blank">
+  la semana epidemiológica 13 (28 de marzo)</a> y no ha echo
+  públicos todos los datos necesarios para realizar un estimado
+  independiente.</p>
+  <p>Con estas limitaciones, esta gráfica muestra mi estimado del número
+  de casos nuevos, y casos acumulados por el día en que los pacientes
+  mostrarían síntomas. Aunque estos números están basados en datos oficiales,
+  <emph>no se trata de estimados oficiales del sistema Centinela</emph>.
+  Debido ha que hay un retraso entre la aparición de síntomas y la
+  detección de un caso, los números de los últimos 15 días probablemente
+  aumentarán en los próximos días.
   <strong>Quédate en Casa</strong>.</p>'
   image:
     x: "imagenes/sir_nacional_centinela.png"
