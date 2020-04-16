@@ -186,7 +186,8 @@ sir_centinela:
   <emph>no se trata de estimados oficiales del sistema Centinela</emph>.
   Debido ha que hay un retraso entre la aparición de síntomas y la
   detección de un caso, los números de los últimos 15 días probablemente
-  aumentarán en los próximos días.
+  aumentarán en los próximos días. Por lo tanto estos estimados deben
+  interpretarse como el mínimo de casos de COVID19 en México.
   <strong>Quédate en Casa</strong>.</p>'
   image:
     x: "imagenes/sir_nacional_centinela.png"
