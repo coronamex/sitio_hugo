@@ -1,5 +1,6 @@
 ---
 title: "Situación en los estados"
+name: "estados_100mil"
 draft: true
 descripcion: "<p>Los lugares con más población siempre tienen más
 casos y por lo tanto el número total de casos no refleja
@@ -14,4 +15,5 @@ habitantes (proyección de la CONAPO para 2020) en los 10 últimos días en las
 imagen: "imagenes/casos_100mil_estados@2x.png"
 imagen2x: "imagenes/casos_100mil_estados.png"
 alt: "imagenes/casos_100mil_estados@2x.png"
+weight: 1100
 ---

@@ -58,18 +58,16 @@ relativeURLs = true
   weight = 4
 
 [params]
+  copyright = "Copyright © Sur Herrera Paredes. CC BY-NC 4."
+  logo = "imagenes/logo1.png"
+  logo_2x = "imagenes/logo1.png"
+  logo_alt = "CoronaMex"
 
   # googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
-  [params.logo]
-    text1 = ""
-    text2 = ""
+  # [params.logo]
+  #   text1 = ""
+  #   text2 = ""
 
-  [params.footer]
-      copyright = "Copyright © Sur Herrera Paredes. CC BY-NC 4."
-      [params.footer.radity_logo]
-        x = "imagenes/logo1.png"
-        _2x = "imagenes/logo1.png"
-        alt = "CoronaMex"
 
 [taxonomies]
