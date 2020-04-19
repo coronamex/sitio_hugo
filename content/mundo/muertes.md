@@ -1,7 +1,7 @@
 ---
 title: "Muertes acumuladas"
 name: "muertes"
-draft: true
+draft: false
 descripcion: '<p>Esta gráfica es similar a la anterior, pero
 compara el número total de muertes en varios países a partir
 de que cada país detectó al caso 60.</p>
@@ -17,6 +17,6 @@ alt: 'Curva que muestra el número de muertes acumuladas
 por COVID-19 en varios países a partir del día en que
 se confirmó el caso sesenta en cada país.'
 Weight: 300
-secciones: ["principal", "mundo", "letalidad"]
+secciones: ["principal", "mundo"]
 etiquetas: ["nacional", "muertes", "dias", "tiempo", "mundo"]
 ---

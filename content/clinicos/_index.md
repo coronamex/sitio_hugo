@@ -1,4 +1,4 @@
 ---
 title: "Datos clínicos"
-draft: true
+draft: false
 ---

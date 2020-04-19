@@ -1,4 +1,4 @@
 ---
-title: "Estados"
+title: "Muertes"
 draft: false
 ---

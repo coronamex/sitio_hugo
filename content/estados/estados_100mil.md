@@ -1,7 +1,7 @@
 ---
 title: "Situación en los estados"
 name: "estados_100mil"
-draft: true
+draft: false
 descripcion: "<p>Los lugares con más población siempre tienen más
 casos y por lo tanto el número total de casos no refleja
 la fase de la epidemia. En cambio, la cantidad de casos

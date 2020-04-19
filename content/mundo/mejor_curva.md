@@ -1,7 +1,7 @@
 ---
 title: "La curva no se está aplanando"
 name: "mejor_curva"
-draft: true
+draft: false
 descripcion: '<p>La velocidad con la que incrementan los casos es uno de
 los indicadores más importantes del estado de una epidemia
 porque nos permite estimar cuantos nuevos casos habrá

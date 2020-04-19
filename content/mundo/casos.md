@@ -1,7 +1,7 @@
 ---
 title: "Casos acumulados"
 name: "casos"
-draft: true
+draft: false
 descripcion: '<p>Esta gráfica compara el avance de la  epidemia
 entre varios países a partir del día en que cada país detectó
 al caso 60.</p>

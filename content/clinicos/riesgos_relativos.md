@@ -1,7 +1,7 @@
 ---
 title: "¿Quién está en riesgo?"
 name: "riesgos_relativos"
-draft: true
+draft: false
 descripcion: '<p><strong>Todos estamos en riesgo</strong>. Para el 15 de abril,
 98 de las 449 (21%) personas que han fallecido en México por COVID-19 no
 tenían ninguno de los factores de riesgo reportados. Sin embargo ciertos
@@ -24,6 +24,6 @@ alt: 'Riesgo relativo de hospitalización y de entrar a cuidados
 intensivos por COVID-19 basado en los casos en México. El estimador de
 máxima verosimilitud y el intervalo de confianza de 95% son mostrados.'
 Weight: 500
-secciones: ["principal", "clinicos",]
-etiquetas: ["nacional", "clinicos", "estimación"]
+secciones: ["principal", "clinicos"]
+etiquetas: ["nacional", "clinicos", "estimado"]
 ---
