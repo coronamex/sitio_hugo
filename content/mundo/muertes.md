@@ -17,7 +17,7 @@ alt: 'Curva que muestra el número de muertes acumuladas
 por COVID-19 en varios países a partir del día en que
 se confirmó el caso sesenta en cada país.'
 Weight: 300
-principal: true
+principal: false
 secciones: ["principal", "mundo"]
 etiquetas: ["nacional", "muertes", "dias", "tiempo", "mundo"]
 ---

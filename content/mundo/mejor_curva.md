@@ -21,7 +21,7 @@ gráfica muestra el crecimiento porcentual diario (promediado durante
 los siete días anteriores) en el número de casos como una función
 del número total de casos en cada país."
 weight: 100
-principal: true
+principal: false
 secciones: ["principal", "mundo"]
 etiquetas: ["nacional", "casos", "dias", "tiempo", "mundo"]
 ---

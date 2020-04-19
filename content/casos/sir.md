@@ -36,7 +36,7 @@ de datos utiliza las fechas de inicio de síntomas proporcionados por
 el InDRE de la Dirección General de Epidemiología en la fecha más
 reciente.'
 Weight: 700
-principal: true
+principal: false
 secciones: ["principal", "casos"]
 etiquetas: ["nacional", "casos", "síntomas", "estimado", "SIR"]
 ---

@@ -20,7 +20,7 @@ más imprecisa la distinción entre casos comunitarios e importados.</p>'
 imagen: "imagenes/inicio_comunitarios.png"
 imagen2x: "imagenes/inicio_comunitarios@2x.png"
 alt: ''
-principal: true
+principal: false
 Weight: 1200
 secciones: ["principal", "estados"]
 etiquetas: ["casos", "días", "tiempo", "comunitarios", estados]

@@ -15,7 +15,7 @@ alt: "Curva epidemiológica. Muestra el número de casos acumulados
 de COVID-19 en varios países a partir del día en que se confirmó
 el caso 60 en cada país."
 Weight: 200
-principal: true
+principal: false
 secciones: ["principal", "mundo"]
 etiquetas: ["nacional", "casos", "dias", "tiempo", "mundo"]
 ---
