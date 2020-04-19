@@ -71,3 +71,5 @@ relativeURLs = true
         x = "imagenes/logo1.png"
         _2x = "imagenes/logo1.png"
         alt = "CoronaMex"
+
+[taxonomies]
