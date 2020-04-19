@@ -23,6 +23,7 @@ imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"
 alt: ''
 Weight: 800
+principal: true
 secciones: ["principal", "casos"]
 etiquetas: ["nacional", "casos", "síntomas", "estimado", "SIR", "centinela"]
 ---

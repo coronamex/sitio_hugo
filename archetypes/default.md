@@ -6,6 +6,7 @@ descripcion: ''
 imagen: ""
 imagen2x: ""
 alt: ''
+principal: true
 Weight: 1
 secciones: []
 etiquetas: []

@@ -20,6 +20,7 @@ medidas de mitigación. <strong>Quédate en Casa</strong>.</p>'
 imagen: "imagenes/letalidad_diagrama.png"
 imagen2x: "imagenes/letalidad_diagrama@2x.png"
 alt: ''
+principal: true
 Weight: 1300
 secciones: ["principal", "muertes"]
 etiquetas: ["muertes", "tiempo", "modelo", "letalidad", "concepto"]

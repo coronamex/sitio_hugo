@@ -19,6 +19,7 @@ epidemia. Debido a que los contagiados pueden tardar hasta
 en días recientes pero estos números probablemente aumentarán
 en los próxios días.'
 Weight: 600
+principal: true
 secciones: ["principal", "casos"]
 etiquetas: ["nacional", "casos", "clinicos", "hospitalizaciones", "síntomas"]
 ---

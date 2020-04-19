@@ -25,6 +25,7 @@ mayot</p>.'
 imagen: "imagenes/casos_acumulados_comunitarios_importados.png"
 imagen2x: "imagenes/casos_acumulados_comunitarios_importados@2x.png"
 alt: ''
+principal: true
 Weight: 900
 secciones: ["principal", "mundo"]
 etiquetas: ["nacional", "casos", "dias", "tiempo", "mundo", "comunitarios"]
