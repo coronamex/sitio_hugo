@@ -2,7 +2,7 @@ baseURL = "https://coronamex.github.io"
 languageCode = "es-mx"
 theme = "raditian"
 relativeURLs = true
-uglyURLs = true
+# uglyURLs = true
 
 # Plugins
 [params.plugins]
