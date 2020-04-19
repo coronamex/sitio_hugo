@@ -12,9 +12,9 @@ se registran días después de que los pacientes muestran síntomas.</p>
 síntomas por cada 100 mil
 habitantes (proyección de la CONAPO para 2020) en los 10 últimos días en las
 32 entidades federativas del país.</p>"
-imagen: "imagenes/casos_100mil_estados@2x.png"
-imagen2x: "imagenes/casos_100mil_estados.png"
-alt: "imagenes/casos_100mil_estados@2x.png"
+imagen: "imagenes/casos_100mil_estados.png"
+imagen2x: "imagenes/casos_100mil_estados@2x.png"
+alt: ''
 weight: 1100
 principal: true
 secciones: ["principal", "estados"]
