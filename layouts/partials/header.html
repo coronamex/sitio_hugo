@@ -2,13 +2,11 @@
   <div class="container rad-fade-in">
     <nav class="navbar navbar-expand-lg navbar-light p-0">
       <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
-        <span>{{ .Site.Params.logo.text1 }}</span>
-        <span>{{ .Site.Params.logo.text2 }}</span>
         <img
           class="img-responsive"
-          src="imagenes/logo1.png"
-          srcset="imagenes/logo1.png 1x, imagenes/logo1.png 2x"
-          alt="CoronaMex"
+          src="{{ .Site.Params.logo | absURL }}"
+          srcset="{{ .Site.Params.logo | absURL }} 1x, {{ .Site.Params.logo_2x | absURL }} 2x"
+          alt="{{ .Site.Params.logo_alt }}"
         />
       </a>
       <button

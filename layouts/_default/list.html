@@ -1,7 +1,11 @@
 {{ define "main" }}
-  {{ partial "showcase.html" . }}
+  <section class="section rad-animation-group pb-0">
+    <div class="container rad-fade-down">
+        <h1 align="center">{{ .Title }}</h1>
+    </div>
+  </section>
 
-  {{ range where .Site.Pages.ByWeight ".Params.principal" true }}
+  {{ range .Pages.ByWeight }}
     <section class="section rad-animation-group pb-0" id="{{ .Params.name }}">
       <div class="container rad-fade-down">
         <div class="row d-flex flex-column-reverse flex-md-row">

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+    {{ partial "head.html" . }}
+    {{ partial "head_custom.html" . }}
+</head>
+<body>
+  {{ block "header" . }}
+    {{ partial "header.html" . }}
+  {{end}}
+
+  {{ block "main" . }}
+  {{end}}
+
+  {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "base-foot.html" . }}
+  {{end}}
+</body>
+</html>

@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <section class="section rad-animation-group pb-0" id="{{ .Params.name }}">
+    <div class="container rad-fade-down">
+      <div class="row d-flex flex-column-reverse flex-md-row">
+        <div class="about__profile-picture col-12 col-md-6">
+          <img
+            class="lozad img-responsive image-right-overflow"
+            src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+            data-src="{{ .Params.imagen | absURL }}"
+            data-srcset="{{ .Params.imagen | absURL }} 1x, {{ .Params.imagen2x | absURL }} 2x"
+            alt="{{ .Params.alt }}"
+          />
+        </div>
+        <div class="col-12 col-md-6 my-auto my-auto">
+          <h2>{{ .Params.title }}</h2>
+          <p class="lead">
+            {{ .Params.descripcion | safeHTML }}
+          </p>
+            {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
