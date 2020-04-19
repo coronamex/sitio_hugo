@@ -16,4 +16,6 @@ imagen: "imagenes/casos_100mil_estados@2x.png"
 imagen2x: "imagenes/casos_100mil_estados.png"
 alt: "imagenes/casos_100mil_estados@2x.png"
 weight: 1100
+secciones: ["principal", "estados"]
+etiquetas: ["estados", "incidencia", "dias", "tiempo"]
 ---

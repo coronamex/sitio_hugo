@@ -1,9 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: ""
+name: "{{ replace .Name "-" " " }}"
 draft: true
-descripcion: ""
+descripcion: ''
 imagen: ""
 imagen2x: ""
-alt: ""
+alt: ''
 Weight: 1
+secciones: []
+etiquetas: []
 ---

@@ -28,34 +28,35 @@ relativeURLs = true
 [menu]
 
   [[menu.header]]
-  name = "Curvas epidémicas"
-  URL = "#mejor_curva"
+  name = "Contexto global"
+  URL = "/mundo"
   weight = 2
 
   [[menu.header]]
-  name = "México"
-  URL = "#nacional_sintomas"
+  name = "Estados"
+  URL = "/estados"
   weight = 3
 
   [[menu.header]]
-  name = "Letalidad"
-  URL = "#letalidad"
+  name = "Datos clínicos"
+  URL = "/clinicos"
   weight = 4
 
   [[menu.footer]]
-  name = "Curvas epidémicas"
-  URL = "#mejor_curva"
+  name = "Contexto global"
+  URL = "/mundo"
   weight = 2
 
   [[menu.footer]]
-  name = "México"
-  URL = "#nacional_sintomas"
+  name = "Estados"
+  URL = "/estados"
   weight = 3
 
   [[menu.footer]]
-  name = "Letalidad"
-  URL = "#letalidad"
+  name = "Datos clínicos"
+  URL = "/clinicos"
   weight = 4
+
 
 [params]
   copyright = "Copyright © Sur Herrera Paredes. CC BY-NC 4."
@@ -63,11 +64,6 @@ relativeURLs = true
   logo_2x = "imagenes/logo1.png"
   logo_alt = "CoronaMex"
 
-  # googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
-
-  # [params.logo]
-  #   text1 = ""
-  #   text2 = ""
-
-
 [taxonomies]
+  etiqueta = "etiquetas"
+  seccion = "secciones"

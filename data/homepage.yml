@@ -107,7 +107,7 @@ tiempo_muerte:
     alt: 'Distribución del tiempo en días desde el inicio de síntomas
     hasta la defunción.'
 
-# Tiempo muerte
+# Riesgo relativos
 riesgos_relativos:
   enable: true
   title: "¿Quién está en riesgo?"
