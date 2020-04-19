@@ -43,14 +43,19 @@ relativeURLs = true
   weight = 4
 
   [[menu.header]]
+  name = "Municipios"
+  URL = "/municipios"
+  weight = 5
+
+  [[menu.header]]
   name = "Datos clínicos"
   URL = "/clinicos"
-  weight = 5
+  weight = 6
 
   [[menu.header]]
   name = "Muertes"
   URL = "/muertes"
-  weight = 6
+  weight = 7
 
   [[menu.footer]]
   name = "Contexto global"
@@ -68,14 +73,19 @@ relativeURLs = true
   weight = 4
 
   [[menu.footer]]
+  name = "Municipios"
+  URL = "/municipios"
+  weight = 5
+
+  [[menu.footer]]
   name = "Datos clínicos"
   URL = "/clinicos"
-  weight = 5
+  weight = 6
 
   [[menu.footer]]
   name = "Muertes"
   URL = "/muertes"
-  weight = 6
+  weight = 7
 
 
 [params]
