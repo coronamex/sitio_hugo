@@ -1,6 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
 draft: true
+descripcion: ""
+imagen: ""
+imagen2x: ""
+alt: ""
+Weight: 1
 ---
-
