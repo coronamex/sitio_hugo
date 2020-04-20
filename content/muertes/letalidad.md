@@ -19,9 +19,14 @@ esperar. La diferencia de 3% es el efecto entre la eficiencia de las
 medidas de mitigación. <strong>Quédate en Casa</strong>.</p>'
 imagen: "imagenes/letalidad_diagrama.png"
 imagen2x: "imagenes/letalidad_diagrama@2x.png"
-alt: ''
-principal: true
+alt: 'Diagrama que ilustra las dificultades de estimar la letalidad
+durante una epidemia. La letalidad verdadera y el número de nuevos
+casos infecciosos y muertes acumulados de una simulación con un modelo
+SEIRD. Dos estimadores de letalidad (instantánea y con retraso) se muestran.
+Ninguno hace un buen trabajo durante la epidemia pero convergen una vez
+que el pico epidémico ha pasado.'
+principal: false
 Weight: 1300
-secciones: ["principal", "muertes"]
-etiquetas: ["muertes", "tiempo", "modelo", "letalidad", "concepto"]
+secciones: ["muertes"]
+etiquetas: ["muertes", "serie_tiempo", "modelo", "letalidad", "concepto"]
 ---

@@ -23,7 +23,7 @@ imagen2x: "imagenes/riesgos_relativos@2x.png"
 alt: 'Riesgo relativo de hospitalización y de entrar a cuidados
 intensivos por COVID-19 basado en los casos en México. El estimador de
 máxima verosimilitud y el intervalo de confianza de 95% son mostrados.'
-Weight: 500
+Weight: 400
 principal: true
 secciones: ["principal", "clinicos"]
 etiquetas: ["nacional", "clinicos", "estimado"]

@@ -16,8 +16,8 @@ imagen2x: "imagenes/n_municipios@2x.png"
 alt: 'Número de municipios que reportaron casos de COVID-19 en los siete días
 previos en el eje vertical, por fecha de inicio de síntomas en el eje
 horizontal.'
-principal: true
+principal: false
 Weight: 1150
-secciones: ["principal", "municipio"]
-etiquetas: ["municipios", "casos", "días", "tiempo"]
+secciones: ["municipios"]
+etiquetas: ["municipios", "casos", "serie_tiempo"]
 ---
