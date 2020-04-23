@@ -39,6 +39,6 @@ de datos utiliza las fechas de inicio de síntomas proporcionados por
 los datos abiertos de la SSA en la fecha más reciente.'
 Weight: 700
 principal: false
-secciones: ["principal", "casos"]
-etiquetas: ["nacional", "casos", "síntomas", "estimado", "SIR"]
+secciones: ["casos"]
+etiquetas: ["nacional", "casos", "síntomas", "estimado", "SIR", "modelo"]
 ---
