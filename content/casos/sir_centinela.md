@@ -21,7 +21,9 @@ gráfica se calculan
 <p>Finalmente, podemos combinar los números del sistema Centinela
 con un <a href="/casos#sir">modelo SEIR</a> para corregir por
 el retraso en la detección de casos
-y estimar el número de real casos el día de hoy.</p>'
+y estimar el número de real casos el día de hoy. Como los números
+de la SSA son más antiguos, el modelo SEIR no captura la desaceleración
+más reciente de la epidemia.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"
 alt: 'Casos nacionales acumulados estimados de COVID-19 en México
