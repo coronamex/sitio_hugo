@@ -9,21 +9,21 @@ se publican con dos semanas de retraso, y el estimado oficial más
 reciente es de
 <a href="https://youtu.be/So48LCI6tSY?t=1349" target="_blank">
 la semana epidemiológica 14 (3 de abril)</a>. Como la epidemia sigue
-creciendo, el número de casos el día de hoy actual debe ser mayor.</p>
+creciendo, el número de casos actual debe ser mayor.</p>
 
 <p>La Secretaría de Salud (SSA) no publica todos los elementos
 necesarios para reproducir sus estimados, así que hago algunas
-simplificaciones para llegar a un resultado similar. Esto nos permite
-producir estimados en fechas más recientes. Todos los valores en esta
-gráfica se calculan
-<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>.</p>
+simplificaciones y llego a un resultado similar. Esto nos permite
+producir estimados en fechas más recientes.</p>
 
 <p>Finalmente, podemos combinar los números del sistema Centinela
 con un <a href="/casos#sir">modelo SEIR</a> para corregir por
 el retraso en la detección de casos
 y estimar el número de real casos el día de hoy. Como los números
 de la SSA son más antiguos, el modelo SEIR no captura la desaceleración
-más reciente de la epidemia.</p>'
+más reciente de la epidemia. Todos los valores en esta
+gráfica se calculan
+<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"
 alt: 'Casos nacionales acumulados estimados de COVID-19 en México
