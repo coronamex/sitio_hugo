@@ -23,7 +23,8 @@ y estimar el número de real casos el día de hoy. Como los números
 de la SSA son más antiguos, el modelo SEIR no captura la desaceleración
 más reciente de la epidemia. Todos los valores en esta
 gráfica se calculan
-<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>.</p>'
+<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>.</p>
+<p>Esta gráfica se actualiza unas horas después que el resto del sitio.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"
 alt: 'Casos nacionales acumulados estimados de COVID-19 en México
@@ -36,5 +37,5 @@ Secretaría de Salud.'
 Weight: 800
 principal: true
 secciones: ["principal", "casos"]
-etiquetas: ["nacional", "casos", "síntomas", "estimado", "centinela"]
+etiquetas: ["nacional", "casos", "síntomas", "estimado", "centinela", "SIR"]
 ---
