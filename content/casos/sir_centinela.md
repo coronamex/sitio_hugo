@@ -18,12 +18,14 @@ producir estimados en fechas más recientes.</p>
 
 <p>Finalmente, podemos combinar los números del sistema Centinela
 con un <a href="/casos#sir">modelo SEIR</a> para corregir por
-el retraso en la detección de casos
-y estimar el número de real casos el día de hoy. Como los números
-de la SSA son más antiguos, el modelo SEIR no captura la desaceleración
-más reciente de la epidemia. Todos los valores en esta
-gráfica se calculan
-<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>.</p>
+el retraso en la detección de casos y estimar el número de real
+casos el día de hoy. Como los números de la SSA son más antiguos,
+el modelo SEIR no captura la desaceleración más reciente de la
+epidemia. Todos los valores en esta gráfica se calculan
+<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>, y
+los valores numéricos se pueden
+<a href="https://github.com/coronamex/visualizando/blob/master/centinela_seir_estimados.csv" target="blank">descargar</a>.</p>
+
 <p>Esta gráfica se actualiza unas horas después que el resto del sitio.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"

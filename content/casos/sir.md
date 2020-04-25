@@ -20,7 +20,10 @@ proyecta como la epidemia habría continuado desde entonces. Como las medidas
 de mitigación pueden desacelerar la epidemia, el algoritmo
 también re-calcula el
 <a href="https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico" target="_blank">
-ritmo reproductivo básico</a> cada diez días (líneas rojas).</p>
+ritmo reproductivo básico</a> cada diez días (líneas rojas). Todos los
+valores numéricos se pueden
+<a href="https://github.com/coronamex/visualizando/blob/master/seir_estimados.csv" target="_blank">descargar</a>.</p>
+
 <p>Este ejercicio no puede decirnos que pasa con la proporción de
 casos no detectados, para eso México usa un sistema de
 <a href="/casos#sir_centinela"> vigilancia Centinela</a>.</p>
