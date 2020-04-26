@@ -24,7 +24,7 @@ el modelo SEIR no captura la desaceleración más reciente de la
 epidemia. Todos los valores en esta gráfica se calculan
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>, y
 los valores numéricos se pueden
-<a href="https://github.com/coronamex/visualizando/blob/master/centinela_seir_estimados.csv" target="blank">descargar</a>.</p>
+<a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/centinela_seir_estimados.csv" target="blank">descargar</a>.</p>
 
 <p>Esta gráfica se actualiza unas horas después que el resto del sitio.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"

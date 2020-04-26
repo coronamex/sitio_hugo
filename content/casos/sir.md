@@ -22,7 +22,7 @@ también re-calcula el
 <a href="https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico" target="_blank">
 ritmo reproductivo básico</a> cada diez días (líneas rojas). Todos los
 valores numéricos se pueden
-<a href="https://github.com/coronamex/visualizando/blob/master/seir_estimados.csv" target="_blank">descargar</a>.</p>
+<a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/seir_estimados.csv" target="_blank">descargar</a>.</p>
 
 <p>Este ejercicio no puede decirnos que pasa con la proporción de
 casos no detectados, para eso México usa un sistema de
