@@ -18,5 +18,5 @@ alt: ''
 weight: 1100
 principal: true
 secciones: ["principal", "estados"]
-etiquetas: ["estados", "incidencia", "dias", "tiempo"]
+etiquetas: ["estados", "incidencia", "serie_tiempo"]
 ---
