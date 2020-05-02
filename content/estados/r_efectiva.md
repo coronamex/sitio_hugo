@@ -10,7 +10,9 @@ que si la R efectiva es menos de uno los casos nuevos disminuyen.</p>
 <p>Esta gráfica muestra como la R efectiva se ha comportado
 en los estados con al menos 500 casos confirmados. La línea más
 gruesa muestra el mejor estimado (mediana) y el área sombreada
-representa el rango más probable de valores (intervalo modal).</p>
+representa el rango más probable de valores (intervalo modal).
+Los estimados se recalculan cada noche para todas las fechas
+con los datos más recientes.</p>
 <p>De acuerdo a esta métrica, Baja California y la Ciudad de México
 han sido los más exitosos en mitigar la epidemia. En otras entidades
 la R efectiva no ha disminuido lo suficiente.</p>

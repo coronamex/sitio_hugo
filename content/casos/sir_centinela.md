@@ -4,9 +4,8 @@ name: "sir_centinela"
 draft: false
 descripcion: '<p>El sistema Centinela es similar a una encuesta y
 permite estimar el número de casos reales del COVID-19 aún
-sin diagnosticar a todos los contagiados. Los estimados oficiales
-se publican con dos semanas de retraso, y el estimado oficial más
-reciente es de
+sin diagnosticar a todos los contagiados. Desafortunadamente,
+sólo tenemos estimados oficiales hasta
 <a href="https://youtu.be/So48LCI6tSY?t=1349" target="_blank">
 la semana epidemiológica 14 (3 de abril)</a>. Como la epidemia sigue
 creciendo, el número de casos actual debe ser mayor.</p>
@@ -20,8 +19,8 @@ producir estimados en fechas más recientes.</p>
 con un <a href="/casos#sir">modelo SEIR</a> para corregir por
 el retraso en la detección de casos y estimar el número de real
 casos el día de hoy. Como los números de la SSA son más antiguos,
-el modelo SEIR no captura la desaceleración más reciente de la
-epidemia. Todos los valores en esta gráfica se calculan
+no podemos proyectar el número de casos hasta el día de hoy.
+Todos los valores en esta gráfica se calculan
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>, y
 los valores numéricos se pueden
 <a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/centinela_seir_estimados.csv" target="blank">descargar</a>.</p>
