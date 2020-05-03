@@ -19,7 +19,7 @@ imagen2x: "imagenes/top_municipios_muertes@2x.png"
 alt: 'Número de fallecimientos por COVID-19 por día en los 20 Municipios
 con más fallecimientos de este tipo en los últimos 20 días.'
 principal: false
-Weight: 1125
+Weight: 1150
 secciones: ["municipios", "muertes"]
 etiquetas: ["municipios", "muertes", "serie_tiempo"]
 ---

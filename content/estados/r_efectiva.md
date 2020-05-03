@@ -29,7 +29,7 @@ alt: 'R efectiva a través del tiempo en estados con al menos 500 casos.
 Mediana e intervalo modal (Highest Density Posterior [HDP]) estimados
 via MCMC.'
 principal: true
-Weight: 1125
+Weight: 1140
 secciones: ["estados", "principal"]
 etiquetas: ["estados", "modelo", "estimados", "serie_tiempo"]
 ---

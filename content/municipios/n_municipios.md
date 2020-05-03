@@ -17,7 +17,7 @@ alt: 'Número de municipios que reportaron casos de COVID-19 en los siete días
 previos en el eje vertical, por fecha de inicio de síntomas en el eje
 horizontal.'
 principal: false
-Weight: 1150
+Weight: 1175
 secciones: ["municipios"]
 etiquetas: ["municipios", "casos", "serie_tiempo"]
 ---

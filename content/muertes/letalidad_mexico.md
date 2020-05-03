@@ -16,7 +16,7 @@ imagen: "imagenes/letalidad_mexico.png"
 imagen2x: "imagenes/letalidad_mexico@2x.png"
 alt: 'Letalidad por COVID-19 en México a lo largo del tiempo. Se muestran
 estimadores de la letalide instantánea y con un retraso de nueve días.'
-principal: true
+principal: false
 Weight: 1400
 secciones: ["principal", "muertes"]
 etiquetas: ["muertes", "tiempo", "letalidad", "nacional"]

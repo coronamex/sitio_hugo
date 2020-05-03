@@ -15,7 +15,7 @@ habitantes (proyección de la CONAPO para 2020) en los 10 últimos días en las
 imagen: "imagenes/casos_100mil_estados.png"
 imagen2x: "imagenes/casos_100mil_estados@2x.png"
 alt: ''
-weight: 1100
+weight: 1130
 principal: true
 secciones: ["principal", "estados"]
 etiquetas: ["estados", "incidencia", "serie_tiempo"]
