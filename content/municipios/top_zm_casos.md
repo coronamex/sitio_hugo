@@ -14,9 +14,9 @@ cada fecha para las nueve zonas metropolitanas más afectadas de México
 <p>Cada zona metropolitana ha seguido su propia trayectoria. En
 Baja California, tanto Mexicali como Tijuana parecen haber superado
 el punto más crítico (consistente con la
-<a href="/estados#r_efectiva">R efectiva</a>),
-probablemente Culiacán también ha superado el este punto pero es muy pronto
-para estar seguros. Monterrey y Puebla han mostrado rebrotes importantes,
+<a href="/estados#r_efectiva">R efectiva</a>). En Culiacán el número de
+nuevos casos parece estabilizarse sin descender. Monterrey y
+Puebla han mostrado rebrotes importantes,
 mientras que Cancún, Mérida, Veracruz y Villahermosa siguen en fase de
 crecimiento.</p>'
 imagen: "imagenes/top_zm_casos.png"

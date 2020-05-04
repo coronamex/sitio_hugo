@@ -2,12 +2,14 @@
 title: "¿Cuántos casos hay en México? (Centinela)"
 name: "sir_centinela"
 draft: false
-descripcion: '<p>El sistema Centinela es similar a una encuesta y
-permite estimar el número de casos reales del COVID-19 aún
-sin diagnosticar a todos los contagiados. Desafortunadamente,
-sólo tenemos estimados oficiales hasta
-<a href="https://youtu.be/So48LCI6tSY?t=1349" target="_blank">
-la semana epidemiológica 14 (3 de abril)</a>. Como la epidemia sigue
+descripcion: '<p>El número real de casos de COVID-19
+es un parámetro esencial para determinar el riesgo de contagio
+de cada persona. El sistema Centinela es similar a una encuesta y
+permite estimar el número de casos reales aún
+sin diagnosticar a todos los contagiados.
+Desafortunadamente, sólo tenemos estimados oficiales hasta
+<a href="https://youtu.be/c-_kVkBFipw?t=3052" target="_blank">
+la semana epidemiológica 15 (10 de abril)</a>. Como la epidemia sigue
 creciendo, el número de casos actual debe ser mayor.</p>
 
 <p>La Secretaría de Salud (SSA) no publica todos los elementos
@@ -19,7 +21,7 @@ producir estimados en fechas más recientes.</p>
 con un <a href="/casos#sir">modelo SEIR</a> para corregir por
 el retraso en la detección de casos y estimar el número de real
 casos el día de hoy. Como los números de la SSA son más antiguos,
-no podemos proyectar el número de casos hasta el día de hoy.
+las proyecciones basados en estos números son menos confiables.
 Todos los valores en esta gráfica se calculan
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>, y
 los valores numéricos se pueden
