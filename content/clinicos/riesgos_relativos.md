@@ -7,6 +7,7 @@ descripcion: '<p><strong>Todos estamos en riesgo</strong>. Para el 15 de abril,
 tenían ninguno de los factores de riesgo reportados. Sin embargo ciertos
 factores pueden hacer más probable que un paciente de COVID-19 tenga una
 enfermedad grave.</p>
+
 <p>En México, podemos calcular el riesgo relativo de que pacientes
 con COVID-19 tengan que ser hospitalizados, llevados a la unidad de
 cuidados intensivos o que fallezcan por COVID-19. Diabetes, enfermedad
