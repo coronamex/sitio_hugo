@@ -7,10 +7,10 @@ mucho la región más afectada del país, acumulando cerca de la mitad
 de los casos confirmados. Esta gráfica muestra como el número de casos
 nuevos no ha dejado de aumentar.</p>
 
-<p>Debido a que los casos nuevos se detectan con un retraso promedio de
-entre nueve y quince días, es posible
-que el número de casos que mostraron síntomas en las últimas dos semanas
-aumente.</p>
+<p>Debido a que los casos nuevos se detectan con un
+<a href="/clinicos#tiempo_deteccion">retraso típico de 10 días</a>,
+es posible que el número de casos que mostraron síntomas en las últimas
+dos semanas aumente.</p>
 
 <p>Otras
 <a href="/municipios#top_zm_casos">zonas metropolitanas</a>

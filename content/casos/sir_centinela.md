@@ -19,7 +19,8 @@ producir estimados en fechas más recientes.</p>
 
 <p>Finalmente, podemos combinar los números del sistema Centinela
 con un <a href="/casos#sir">modelo SEIR</a> para corregir por
-el retraso en la detección de casos y estimar el número de real
+el <a href="/clinicos#tiempo_deteccion">retraso</a>
+en la detección de casos y estimar el número de real
 casos el día de hoy. Como los números de la SSA son más antiguos,
 las proyecciones basados en estos números son menos confiables.
 Todos los valores en esta gráfica se calculan

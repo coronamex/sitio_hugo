@@ -19,6 +19,6 @@ alt: 'Distribución del tiempo en días desde el inicio de síntomas
 hasta la defunción.'
 Weight: 500
 principal: false
-secciones: ["clinicos", "muertes"]
-etiquetas: ["nacional", "muertes", "clinicos"]
+secciones: ["clínicos", "muertes"]
+etiquetas: ["nacional", "muertes", "clínicos"]
 ---

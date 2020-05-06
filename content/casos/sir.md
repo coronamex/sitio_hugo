@@ -2,7 +2,8 @@
 title: "¿Cuántos casos hay en México?"
 name: "sir"
 draft: false
-descripcion: '<p>Como se ve en esta gráfica, hay un retraso entre
+descripcion: '<p>Como se ve en esta gráfica, hay un
+<a href="/clinicos#tiempo_deteccion">retraso</a> entre
 cuando una persona enferma de COVID-19
 <span style="background-color: #cab2d6">muestra síntomas</span> y la
 fecha en que el caso se

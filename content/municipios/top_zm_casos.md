@@ -8,9 +8,11 @@ las
 son las regiones donde el COVID-19 puede avanzar con mayor
 facilidad, y cada una de estas regiones tiene una epidemia con
 características propias.</p>
+
 <p>Esta gráfica muestra el número de casos que mostraron síntomas en
 cada fecha para las nueve zonas metropolitanas más afectadas de México
 (excluyendo al <a href="/municipios#vm_casos">Valle de México</a>).</p>
+
 <p>Cada zona metropolitana ha seguido su propia trayectoria. En
 Baja California, tanto Mexicali como Tijuana parecen haber superado
 el punto más crítico (consistente con la
