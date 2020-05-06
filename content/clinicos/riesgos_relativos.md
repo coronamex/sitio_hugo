@@ -8,8 +8,9 @@ tenían ninguno de los factores de riesgo reportados. Sin embargo ciertos
 factores pueden hacer más probable que un paciente de COVID-19 tenga una
 enfermedad grave.</p>
 <p>En México, podemos calcular el riesgo relativo de que pacientes
-con COVID-19 tengan que ser hospitalizados o llevados a la unidad de
-cuidados intensivos. Diabetes, enfermedad pulmonar obstructiva crónica
+con COVID-19 tengan que ser hospitalizados, llevados a la unidad de
+cuidados intensivos o que fallezcan por COVID-19. Diabetes, enfermedad
+pulmonar obstructiva crónica
 (EPOC), insuficiencia renal crónica e hipertensión más o menos
 duplican el riesgo para los pacientes. El asma no tiene una asociación
 significativa con el riesgo, lo cual puede parecer raro pero hasta
@@ -26,5 +27,5 @@ máxima verosimilitud y el intervalo de confianza de 95% son mostrados.'
 Weight: 400
 principal: true
 secciones: ["principal", "clinicos"]
-etiquetas: ["nacional", "clinicos", "estimado"]
+etiquetas: ["nacional", "clinicos", "estimado", "muertes"]
 ---

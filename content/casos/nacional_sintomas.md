@@ -4,9 +4,13 @@ name: "nacional_sintomas"
 draft: false
 descripcion: '<p>Esta gráfica muestra el número de casos en México
 de acuerdo a la fecha en que empezaron a mostrar síntomas.</p>
-<p>Debido a que pueden pasar hasta dos semanas para que
-las personas infectadas muestren síntomas, no tenemos
-el número real de nuevas infecciones en los últimos días.</p>
+
+<p>Debido a que pueden hay un retraso entre el tiempo que una persona
+contagiada de COVID-19 muestra síntomas y su caso es confirmado, los
+casos que detectamos hoy corresponden a contagios ocurridos días atrás (hasta
+dos semanas). Por lo tanto, no tenemos el número real de infecciones en
+los días más recientes.</p>
+
 <p>Sin embargo, podemos utilizar los casos que mostraron
 síntomas hasta hace 15 días para <a href="/casos#sir">estimar</a>
 el número de casos en la actualidad y el
@@ -23,5 +27,5 @@ en los próxios días.'
 Weight: 600
 principal: true
 secciones: ["principal", "casos"]
-etiquetas: ["nacional", "casos", "clinicos", "hospitalizaciones", "síntomas"]
+etiquetas: ["nacional", "casos", "clínicos", "hospitalizaciones", "serie_tiempo", "síntomas"]
 ---
