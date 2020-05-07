@@ -2,17 +2,14 @@
 title: "¿Cuántos casos hay en México?"
 name: "sir"
 draft: false
-descripcion: '<p>Como se ve en esta gráfica, hay un
-<a href="/clinicos#tiempo_deteccion">retraso</a> entre
-cuando una persona enferma de COVID-19
-<span style="background-color: #cab2d6">muestra síntomas</span> y la
-fecha en que el caso se
-<span style="background-color: #b2df8a">confirma</span>. Por lo tanto,
+descripcion: '<p>Hay un <a href="/clinicos#tiempo_deteccion">retraso</a>
+en la detección de los casos de COVID-19. Por lo tanto,
 el día de hoy debe haber más casos que los confirmados. Las líneas
 <span style="background-color: #dfc27d">marrones</span>
 muestran estimados de un
 <a href="https://gabgoh.github.io/COVID/index.html"
 target="_blank">modelo epidemiológico SEIR</a> con diferentes parámetros.</p>
+
 <p>El código para ajustar, simular y graficar el modelo está
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/sir.r"
 target="_blank">aquí</a>. El algoritmo busca los parámetros que mejor
@@ -23,7 +20,9 @@ también re-calcula el
 <a href="https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico" target="_blank">
 ritmo reproductivo básico</a> cada diez días (líneas rojas). Todos los
 valores numéricos se pueden
-<a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/seir_estimados.csv" target="_blank">descargar</a>.</p>
+<a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/seir_estimados.csv" target="_blank">descargar</a>.
+Esto puede además ayudarnos a detectar si estamos
+<a href="/casos#aplanamiento">aplanando la curva</a>.</p>
 
 <p>Este ejercicio no puede decirnos que pasa con la proporción de
 casos no detectados, para eso México usa un sistema de
