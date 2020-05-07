@@ -3,7 +3,7 @@ title: "¿Quién está en riesgo?"
 name: "riesgos_relativos"
 draft: false
 descripcion: '<p><strong>Todos estamos en riesgo</strong>. Para el 6 de mayo,
-123 de las 857 (14%) de las mujeres, y 857 de los 1847 (25%) hombres que
+123 (14%) de las 857 mujeres, y 857 (25%) de los 1847 hombres que
 fallecieron por COVID-19 no tenían ninguno de los factores de riesgo
 reportados. Sin embargo, ciertos factores pueden hacer más probable que
 una persona contagiada desarrolle enfermedad grave.</p>
