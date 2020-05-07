@@ -19,8 +19,8 @@ directamente causadas por el virus. Personas que no tienen COVID-19 pueden
 fallecer porque la saturación de los sistemas de salud no permite que
 sean atendidas, o porque se ven obligadas a estar encerradas con sus
 abusadores. Análisis en otros países sugieren la pandemia podría ser
-reponsable directa o indirectamente de
-<a href="https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c" target="_blank">60% más fallecmimentos que los reportados</a>.
+responsable directa o indirectamente de
+<a href="https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c" target="_blank">60% más fallecimientos que los reportados</a>.
 En México, no sabemos la mortalidad total causada por la pandemia.</p>'
 
 imagen: "imagenes/muertes_region.png"
