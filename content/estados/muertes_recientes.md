@@ -20,8 +20,8 @@ imagen2x: "imagenes/estados_muertes_recientes@2x.png"
 alt: 'Número de fallecimientos por entidad en los
 últimos 10 días. Sólo se muestran estados con al menos un fallecimiento
 confirmado por COVID-19 en este período.'
-principal: true
+principal: false
 Weight: 1150
-secciones: ["principal", "estados", "muertes"]
+secciones: ["estados", "muertes"]
 etiquetas: ["estados", "muertes", "serie_tiempo"]
 ---

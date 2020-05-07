@@ -18,6 +18,6 @@ alt: 'Letalidad por COVID-19 en México a lo largo del tiempo. Se muestran
 estimadores de la letalide instantánea y con un retraso de nueve días.'
 principal: false
 Weight: 1400
-secciones: ["principal", "muertes"]
+secciones: ["muertes"]
 etiquetas: ["muertes", "tiempo", "letalidad", "nacional"]
 ---
