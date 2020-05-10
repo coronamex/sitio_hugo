@@ -2,8 +2,9 @@
 title: "Probablemente sí hemos aplanado la curva"
 name: "aplanamiento"
 draft: false
-descripcion: '<p>Aplanar la curva significa reducir la velocidad
-con la que aparecen nuevos casos. Nunca podemos estar cien por ciento
+descripcion: '<p><a href="/casos#aplanamiento_diagrama">Aplanar la curva</a>
+significa reducir la velocidad
+con la que se acumulan los casos. Nunca podemos estar cien por ciento
 seguros de qué hubiera pasado si las cosas fueran diferentes, pero podemos
 usar un <a href="/casos#sir">modelo epidemiológico</a> para simular cuantos
 casos habría si hubieran seguido creciendo a la misma velocidad que hace
