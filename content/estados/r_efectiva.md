@@ -19,7 +19,8 @@ pasado el pico epidémico.</p>
 confirmados. La línea más gruesa muestra el mejor estimado (mediana) y el
 área sombreada representa el rango más probable de valores (intervalo
 modal de 90%). Los estimados se actualizan cada noche con los datos
-más recientes. Debido al <a href="/clinicos#">retraso</a> en la detección
+más recientes. Debido al <a href="/clinicos#tiempo_deteccion">retraso</a> en
+la detección
 de casos aunque sólo podemos estimar la R efectiva hasta hace 5 días.</p>
 
 <p>Este análisis se basa en
