@@ -5,7 +5,8 @@ draft: false
 descripcion: '<p>La zona metropolitana del Valle de México ha sido por
 mucho la región más afectada del país, acumulando cerca de la mitad
 de los casos confirmados. Esta gráfica muestra como el número de casos
-nuevos no ha dejado de aumentar.</p>
+nuevos no ha dejado de aumentar aunque podría ser que el número de nuevos
+casos no esté creciendo tan rápidamente.</p>
 
 <p>Debido a que los casos nuevos se detectan con un
 <a href="/clinicos#tiempo_deteccion">retraso típico de 10 días</a>,

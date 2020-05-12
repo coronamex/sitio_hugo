@@ -13,14 +13,14 @@ características propias.</p>
 cada fecha para las nueve zonas metropolitanas más afectadas de México
 (excluyendo al <a href="/municipios#vm_casos">Valle de México</a>).</p>
 
-<p>Cada zona metropolitana ha seguido su propia trayectoria. En
-Baja California, tanto Mexicali como Tijuana parecen haber superado
-el punto más crítico (consistente con la
-<a href="/estados#r_efectiva">R efectiva</a>). En Culiacán el número de
-nuevos casos parece estabilizarse sin descender. Monterrey y
-Puebla han mostrado rebrotes importantes,
-mientras que Cancún, Mérida, Veracruz y Villahermosa siguen en fase de
-crecimiento.</p>'
+<p>Cada zona metropolitana ha seguido su propia trayectoria. En ninguna
+zona metropolitana se ha superado con claridad el pico epidémico, aunque
+en algunas como Cancún, Culiacán, Mexicali, Tijuana y Villahermosa
+parece que los casos nuevos no están creciendo con tanta rapidez
+en días más recientes. En otras como Mérida, Monterrey,
+Puebla-Tlaxcala y Veracruz la aparición de casos nuevos
+sigue claramente acelerándose.</p>'
+
 imagen: "imagenes/top_zm_casos.png"
 imagen2x: "imagenes/top_zm_casos@2x.png"
 alt: 'Número de casos de COVID-19 por fecha de inicio de síntomas
