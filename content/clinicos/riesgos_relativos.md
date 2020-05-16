@@ -12,9 +12,8 @@ una persona contagiada desarrolle enfermedad grave.</p>
 con COVID-19 tengan que ser hospitalizados, llevados a la unidad de
 cuidados intensivos o que fallezcan por COVID-19. Diabetes, enfermedad
 pulmonar obstructiva crónica (EPOC), insuficiencia renal crónica e
-hipertensión son los mayores factores de riesgo. El asma no tiene una
-asociación significativa con el riesgo, lo cual puede parecer raro pero hasta
-el momento
+hipertensión son los mayores factores de riesgo. El asma no incrementa
+el riesgo, lo cual puede parecer raro pero hasta el momento
 <a href="https://www.aaaai.org/conditions-and-treatments/library/asthma-library/covid-asthma" target="_blank">no hay</a>
 <a href="https://time.com/5802423/coronvirus-asthma-high-risk/" target="_blank">evidencia</a>
 de que gente con asma tenga un mayor riesgo que los demás. Simplemente
@@ -25,7 +24,7 @@ alt: 'Riesgo relativo de hospitalización y de entrar a cuidados
 intensivos por COVID-19 basado en los casos en México. El estimador de
 máxima verosimilitud y el intervalo de confianza de 95% son mostrados.'
 Weight: 400
-principal: true
-secciones: ["principal", "clínicos"]
+principal: false
+secciones: ["clínicos"]
 etiquetas: ["nacional", "clínicos", "estimado", "muertes"]
 ---

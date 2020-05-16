@@ -8,20 +8,20 @@ número promedio de gente contagiada por cada persona que se enferma.
 Si la R efectiva es más de uno los casos aumentan, mientras
 que si la R efectiva es menos de uno cada vez hay menos casos.</p>
 
-<p>Lograr una tasa de contagios por contagiado de menos de uno es la única
-manera en que la cantidad de casos disminuya. En otras palabras, un
-R efectiva menor a uno indica que se pasó el pico epidémico. De acuerdo a esta
-métrica, varios estados han mostrado una disminución en el número de contagios
-por caso, pero en ningún caso la R efeciva es menor a uno, indicando que no se ha
-pasado el pico epidémico.</p>
+<p>Lograr un promedio de contagios por contagiado menor a uno es la única
+manera de que la cantidad de casos disminuya. En otras palabras, un
+R efectiva menor a uno indica que se pasó el pico epidémico. varios
+estados han mostrado una disminición en esta métrica, pero en ningún caso la
+R efectiva es claramente menor a uno, indicando que no se ha pasado el pico
+epidémico.</p>
 
 <p>Esta gráfica muestra la R efectiva en estados con al menos 500 casos
 confirmados. La línea más gruesa muestra el mejor estimado (mediana) y el
 área sombreada representa el rango más probable de valores (intervalo
 modal de 90%). Los estimados se actualizan cada noche con los datos
 más recientes. Debido al <a href="/clinicos#tiempo_deteccion">retraso</a> en
-la detección
-de casos aunque sólo podemos estimar la R efectiva hasta hace 5 días.</p>
+la detección de casos aunque sólo podemos estimar la R efectiva hasta
+hace 5 días.</p>
 
 <p>Este análisis se basa en
 <a href="https://rt.live/" target="_blank">rt.live</a>
