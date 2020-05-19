@@ -28,7 +28,7 @@ relativeURLs = true
 [menu]
 
   [[menu.header]]
-  name = "Contexto global"
+  name = "Mundo"
   URL = "/mundo"
   weight = 2
 
@@ -48,7 +48,7 @@ relativeURLs = true
   weight = 5
 
   [[menu.header]]
-  name = "Datos clínicos"
+  name = "Clínicos"
   URL = "/clinicos"
   weight = 6
 
@@ -57,8 +57,13 @@ relativeURLs = true
   URL = "/muertes"
   weight = 7
 
+  [[menu.header]]
+  name = "Socioeconómicos"
+  URL = "/socioeconomicos"
+  weight = 8
+
   [[menu.footer]]
-  name = "Contexto global"
+  name = "Mundo"
   URL = "/mundo"
   weight = 2
 
@@ -78,7 +83,7 @@ relativeURLs = true
   weight = 5
 
   [[menu.footer]]
-  name = "Datos clínicos"
+  name = "Clínicos"
   URL = "/clinicos"
   weight = 6
 
@@ -86,6 +91,11 @@ relativeURLs = true
   name = "Muertes"
   URL = "/muertes"
   weight = 7
+
+  [[menu.footer]]
+  name = "Socioeconómicos"
+  URL = "/socioeconomicos"
+  weight = 8
 
 
 [params]
