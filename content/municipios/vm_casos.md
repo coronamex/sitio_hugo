@@ -14,7 +14,8 @@ es posible que el número de casos que mostraron síntomas en las últimas
 dos semanas aumente.</p>
 
 <p>Otras
-<a href="/municipios#top_zm_casos">zonas metropolitanas</a>
+<a href="/municipios#top_zm_casos">zonas</a>
+<a href="/municipios/top_zm_casos2">metropolitanas</a>
 también han sido afectadas</p>'
 imagen: "imagenes/vm_casos.png"
 imagen2x: "imagenes/vm_casos@2x.png"
