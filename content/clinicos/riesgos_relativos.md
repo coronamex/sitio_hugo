@@ -9,11 +9,12 @@ reportados. Sin embargo, ciertos factores pueden hacer más probable que
 una persona contagiada desarrolle enfermedad grave.</p>
 
 <p>En México, podemos calcular el riesgo relativo de que pacientes
-con COVID-19 tengan que ser hospitalizados, llevados a la unidad de
-cuidados intensivos o que fallezcan por COVID-19. Diabetes, enfermedad
-pulmonar obstructiva crónica (EPOC), insuficiencia renal crónica e
-hipertensión son los mayores factores de riesgo. El asma no incrementa
-el riesgo, lo cual puede parecer raro pero hasta el momento
+con COVID-19 tengan que ser hospitalizados o terminen falleciendo por
+COVID-19. Una vez que descontamos el efecto de la edad, la insuficiencia renal
+crónica, diabetes, inmunosupresión, obesidad y enfermedad
+pulmonar obstructiva crónica (EPOC) son los mayores factores de riesgo.
+El asma no incrementa el riesgo, lo cual puede parecer raro pero hasta el
+momento
 <a href="https://www.aaaai.org/conditions-and-treatments/library/asthma-library/covid-asthma" target="_blank">no hay</a>
 <a href="https://time.com/5802423/coronvirus-asthma-high-risk/" target="_blank">evidencia</a>
 de que gente con asma tenga un mayor riesgo que los demás. Simplemente
