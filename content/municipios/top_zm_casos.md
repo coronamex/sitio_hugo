@@ -16,10 +16,11 @@ siguientes nueve están <a href="/municipios#top_zm_casos2">aquí</a>.</p>
 
 <p>Cada zona metropolitana ha seguido su propia trayectoria y en ninguna
 se ha superado con claridad el pico epidémico. En ciudades como Cancún,
-Culiacán,  Mexicali, Tijuana y Villahermosa
-parece que los casos nuevos no están creciendo con tanta rapidez
-en días más recientes. En otras como Mérida, Monterrey,
-Puebla-Tlaxcala y Veracruz los casos nuevos casos siguen acelerándose.</p>'
+Culiacán,  Mexical y Tijuana
+parece que los casos nuevos no están creciendo, pero tampoco están
+descendiendo. En otras como Mérida, Monterrey,
+Puebla-Tlaxcala, Veracruz y Villahermosa la cantidad de casos nuevos
+sigue aumentando.</p>'
 
 imagen: "imagenes/top_zm_casos.png"
 imagen2x: "imagenes/top_zm_casos@2x.png"

@@ -12,11 +12,10 @@ pero la epidemia sigue creciendo en la mayoría de estas ciudades también.</p>
 
 <p>La epidemia se ha comportado de diferentes maneras en estas ciudades.
 Juárez es la única donde el punto más alto
-de contagios parece haber pasado sin que la epidemia se saliera de control
-aunque es muy pronto para afirmarlo con seguridad. En ciudades como Aguascalientes, Cuernavaca, Tampico y Toluca la velocidad con
-la que aparecen nuevos casos parece haber disminuido, pero no podemos saber
-si los casos van a empezar a disminuir. Finalmente, en Acapulco, Guadalajara,
-Oaxaca y Querétaro la epidemia claramente se está acelerando.</p>'
+de contagios parece haber pasado, pero esto no garantiza que los contagios
+no puedan aumentar nuevamente. En ciudades como Aguascalientes, Cuernavaca y Tampico la cantidad de casos nuevos se ha estabilizado pero tampoco descienden.
+Finalmente, en Acapulco, Guadalajara, Oaxaca, Querétaro y Toluca la epidemia
+sigue acelerándose.</p>'
 imagen: "imagenes/top_zm_casos2.png"
 imagen2x: "imagenes/top_zm_casos2@2x.png"
 alt: 'Número de casos de COVID-19 por fecha de inicio de síntomas
