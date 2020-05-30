@@ -1,17 +1,21 @@
 ---
-title: "La epidemia crece en el Valle de México"
+title: "¿La epidemia crece en el Valle de México?"
 name: "vm_casos"
 draft: false
 descripcion: '<p>La zona metropolitana del Valle de México ha sido por
 mucho la región más afectada del país, acumulando cerca de la mitad
-de los casos confirmados. Esta gráfica muestra como el número de casos
-nuevos no ha dejado de aumentar aunque podría ser que el número de nuevos
-casos no esté creciendo tan rápidamente.</p>
+de los casos confirmados. Esta gráfica muestra como el número de de acuerdo a
+la fecha en que mostraron síntomas. Debido a que los casos nuevos se detectan
+con un <a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>,
+sólo podemos estar razonablemente seguros del número de casos hace unas dos
+semanas</p>
 
-<p>Debido a que los casos nuevos se detectan con un
-<a href="/clinicos#tiempo_deteccion">retraso típico de 10 días</a>,
-es posible que el número de casos que mostraron síntomas en las últimas
-dos semanas aumente.</p>
+<p>Se empieza a ver un aparente descenso en el número de casos nuevos entre
+el 10 y el 15 de mayo, sin embargo, esto ha pasado en
+<a href="/municipios#top_zm_casos">otras ciudades</a>
+donde los casos han vuelto a aumentar. Esto significa que no podemos estar
+seguros hasta no ver unas dos semanas de descenso sostenido en el número
+de casos nuevos.</p>
 
 <p>Otras
 <a href="/municipios#top_zm_casos">zonas</a>

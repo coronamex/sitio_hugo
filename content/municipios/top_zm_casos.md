@@ -14,13 +14,10 @@ cada fecha para las nueve zonas metropolitanas más afectadas de México
 (excluyendo al <a href="/municipios#vm_casos">Valle de México</a>). Las
 siguientes nueve están <a href="/municipios#top_zm_casos2">aquí</a>.</p>
 
-<p>Cada zona metropolitana ha seguido su propia trayectoria y en ninguna
-se ha superado con claridad el pico epidémico. En ciudades como Cancún,
-Culiacán,  Mexical y Tijuana
-parece que los casos nuevos no están creciendo, pero tampoco están
-descendiendo. En otras como Mérida, Monterrey,
-Puebla-Tlaxcala, Veracruz y Villahermosa la cantidad de casos nuevos
-sigue aumentando.</p>'
+<p>Cada zona metropolitana ha seguido su propia trayectoria. Cancún y Tijuana
+acumulan varias semanas al hilo con un descenso en el número de casos,
+sugiriendo que han superado el pico epidémico, pero el riesgo sigue siendo alto.
+En las otras zonas metropolitanas la epidemia sigue acelerándose.</p>'
 
 imagen: "imagenes/top_zm_casos.png"
 imagen2x: "imagenes/top_zm_casos@2x.png"
