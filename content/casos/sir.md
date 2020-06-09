@@ -18,7 +18,7 @@ proyecta como la epidemia habría continuado desde entonces. Como las medidas
 de mitigación pueden desacelerar la epidemia, el algoritmo
 también re-calcula el
 <a href="https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico" target="_blank">
-ritmo reproductivo básico</a> cada once días (líneas rojas). Todos los
+ritmo reproductivo básico</a> cada quince días (líneas rojas). Todos los
 valores numéricos se pueden
 <a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/seir_estimados.csv" target="_blank">descargar</a>.
 Esto puede además ayudarnos a detectar si estamos
