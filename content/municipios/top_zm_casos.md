@@ -1,5 +1,5 @@
 ---
-title: "Cada zona metropolitana tiene su propia epidemia (1/2)"
+title: "Cada zona metropolitana tiene su propia epidemia (1/3)"
 name: "top_zm_casos"
 draft: false
 descripcion: '<p>Debido a su densidad poblacional y movilidad interna,
@@ -9,10 +9,12 @@ son las regiones donde el COVID-19 puede avanzar con mayor
 facilidad, y cada una de estas regiones tiene una epidemia con
 características propias.</p>
 
-<p>Esta gráfica muestra el número de casos que mostraron síntomas en
-cada fecha para las nueve zonas metropolitanas más afectadas de México
-(excluyendo al <a href="/municipios#vm_casos">Valle de México</a>). Las
-siguientes nueve están <a href="/municipios#top_zm_casos2">aquí</a>.</p>
+<p>Esta gráfica muestra el número de casos que mostraron síntomas por
+fecha en nueve de las primeras zonas metropolitanas afectadas
+(excluyendo al <a href="/municipios#vm_casos">Valle de México</a>). Estas
+ciudades tenían al menos 500 casos acumulados para el 2 de mayo. Puedes
+ver más ciudades <a href="/municipios#top_zm_casos2">aquí</a> y
+<a href="/municipios#top_zm_casos3">aquí</a>.</p>
 
 <p>Cada zona metropolitana ha seguido su propia trayectoria. Cancún y Tijuana
 acumulan varias semanas al hilo con un descenso en el número de casos,

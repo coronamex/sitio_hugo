@@ -19,8 +19,8 @@ de casos nuevos.</p>
 
 <p>Otras
 <a href="/municipios#top_zm_casos">zonas</a>
-<a href="/municipios/top_zm_casos2">metropolitanas</a>
-también han sido afectadas</p>'
+<a href="/municipios#top_zm_casos2">metropolitanas</a>
+<a href="/municipios#top_zm_casos3">también</a> han sido afectadas</p>'
 imagen: "imagenes/vm_casos.png"
 imagen2x: "imagenes/vm_casos@2x.png"
 alt: 'Número de casos de COVID-19 en la zona metropolitana del
