@@ -18,21 +18,17 @@ simplificaciones y llego a un resultado similar. Esto nos permite
 producir estimados en fechas más recientes.</p>
 
 <p>Finalmente, podemos combinar los números del sistema Centinela
-con un <a href="/casos#sir">modelo SEIR</a> para corregir por
-el <a href="/clinicos#tiempo_deteccion">retraso</a>
-en la detección de casos y estimar el número de real
-casos el día de hoy. Como los números de la SSA son más antiguos,
-las proyecciones basados en estos números son menos confiables.
-Todos los valores en esta gráfica se calculan
-<a href="https://github.com/coronamex/visualizando/blob/master/casos/centinela_preliminar.r" target="_blank">con este código</a>, y
-los valores numéricos se pueden
-<a href="https://raw.githubusercontent.com/coronamex/visualizando/master/estimados/centinela_seir_estimados.csv" target="blank">descargar</a>.</p>
+con un <a href="/casos#sir">modelo SEIR</a> estimar mayor claridad el número de
+casos el día de hoy. El código para las estimaciones está
+<a href="https://github.com/coronamex/visualizando/tree/master/casos" target="_blank">aquío</a>,
+y los estimados están
+<a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="blank">aquí</a>.</p>
 
 <p>Esta gráfica se actualiza unas horas después que el resto del sitio.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"
 alt: 'Casos nacionales acumulados estimados de COVID-19 en México
-con datos del sistema de vigilancia epidemiológica centinela.
+con datos del sistema de vigilancia epidemiológica Centinela.
 La gráfica muestra los estimados oficiales más recientes de la SSA que
 se publican una vez por semana y con dos semanas de retraso.
 La gráfica también muestra los estimados correspondientes de CoronaMex
