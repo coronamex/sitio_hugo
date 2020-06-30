@@ -27,7 +27,7 @@ imagen: "imagenes/muertes_region.png"
 imagen2x: "imagenes/muertes_region@2x.png"
 alt: 'Muertes confirmadas por COVID-19 por fecha de defunción por
 región de México.'
-principal: true
+principal: false
 Weight: 700
 secciones: ["principal", "muertes"]
 etiquetas: ["muertes", "serie_tiempo", "nacional"]
