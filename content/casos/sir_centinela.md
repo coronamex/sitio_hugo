@@ -22,9 +22,7 @@ con un <a href="/casos#sir">modelo SEIR</a> estimar mayor claridad el número de
 casos el día de hoy. El código para las estimaciones está
 <a href="https://github.com/coronamex/visualizando/tree/master/casos" target="_blank">aquío</a>,
 y los estimados están
-<a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="blank">aquí</a>.</p>
-
-<p>Esta gráfica se actualiza unas horas después que el resto del sitio.</p>'
+<a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="blank">aquí</a>.</p>'
 imagen: "imagenes/sir_nacional_centinela.png"
 imagen2x: "imagenes/sir_nacional_centinela@2x.png"
 alt: 'Casos nacionales acumulados estimados de COVID-19 en México
