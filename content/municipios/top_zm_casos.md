@@ -16,10 +16,10 @@ ciudades tenían al menos 500 casos acumulados para el 2 de mayo. Puedes
 ver más ciudades <a href="/municipios#top_zm_casos2">aquí</a> y
 <a href="/municipios#top_zm_casos3">aquí</a>.</p>
 
-<p>Cada zona metropolitana ha seguido su propia trayectoria. Cancún y Tijuana
-acumulan varias semanas al hilo con un descenso en el número de casos,
-sugiriendo que han superado el pico epidémico, pero el riesgo sigue siendo alto.
-En las otras zonas metropolitanas la epidemia sigue acelerándose.</p>'
+<p>Cada zona metropolitana ha seguido su propia trayectoria. Después de semanas
+de descenso sostenido, Cancún y Tijuana parecen tener rebrotes; ninguna de las
+otras ciudades ha controlado la epidemia y Mérida y Monterrey tienen uno de
+los crecimientos más rápidos.</p>'
 
 imagen: "imagenes/top_zm_casos.png"
 imagen2x: "imagenes/top_zm_casos@2x.png"

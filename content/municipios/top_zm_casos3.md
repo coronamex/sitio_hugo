@@ -10,15 +10,13 @@ donde la epidemia inició más lentamente que en
 <a href="/municipios#top_zm_casos2">ciudades</a> o que en el
 <a href="/municipios#vm_casos">Valle de México</a>,
 pero esto no quiere decir que tengan menos casos. Esta ciudades llegaron
-a 500 casos acumulados el 25 de mayo.</p>
+a 500 casos acumulados a más tardar el 25 de mayo.</p>
 
-<p>Fuera de Coatzacoalcos que lleva varias semanas con un lento descenso en
-el número de casos nuevos, la mayoría de estas ciudades tiene una epidemia
-que inició después que en
-<a href="/municipios#top_zm_casos">otras</a>
-<a href="/municipios#top_zm_casos2">ciudades</a> o que en el
-<a href="/municipios#vm_casos">Valle de México</a>, y el número de
-casos en estas ciudades sigue acelerándose.</p>'
+<p>La epidemia es dispar en estas ciudades. Coatzacoalcos, Mazatlán, Pachuca
+y Tuxtla-Gutiérrez acumulan semanas con una disminución en el número de casos,
+Hermosillo podría seguir el mismo camino, mientras que La Laguna, León,
+San Luis Potosí y Tlaxcala-Apizaco siguen con una epidemia en
+crecimiento.</p>'
 imagen: "imagenes/top_zm_casos3.png"
 imagen2x: "imagenes/top_zm_casos3@2x.png"
 alt: 'Número de casos de COVID-19 por fecha de inicio de síntomas

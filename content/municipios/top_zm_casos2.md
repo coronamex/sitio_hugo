@@ -16,7 +16,8 @@ estas
 <p>La epidemia se ha comportado de diferentes maneras en estas ciudades.
 Juárez es la única donde los casos han disminuido por varias semanas, mientras
 que Cuernavaca y Querétaro muestran han mostrado una estabilización por varias
-semanas. En el resto de estas ciudades la epidemia sigue acelerándose.</p>'
+semanas. Otras ciudades dan buenas señales, pero es muy pronto para estar
+seguros.</p>'
 imagen: "imagenes/top_zm_casos2.png"
 imagen2x: "imagenes/top_zm_casos2@2x.png"
 alt: 'Número de casos de COVID-19 por fecha de inicio de síntomas

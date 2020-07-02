@@ -1,21 +1,23 @@
 ---
-title: "La epidemia se estabiliza en el Valle de México"
+title: "La epidemia se desacelera en el Valle de México"
 name: "vm_casos"
 draft: false
 descripcion: '<p>La zona metropolitana del Valle de México ha sido por
 mucho la región más afectada del país, acumulando alrededor de un tercio
-de los casos confirmados. Esta gráfica muestra el número de de acuerdo a
+de los casos confirmados. Esta gráfica muestra los casos de acuerdo
 la fecha en que mostraron síntomas. Debido a que los casos nuevos se detectan
 con un <a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>,
 sólo podemos estar razonablemente seguros del número de casos hace unas dos
 semanas</p>
 
 <p>El número de casos nuevos comenzó a estabilizarse alrededor del 15 de mayo,
-pero todavía no vemos un descenso sostenido en el número de casos nuevos
-por día. El que la epidemia se estabilice no quiere decir que disminuya el
-riesgo, sino que deja de aumentar. Además, hemos visto que en
-<a href="/municipios#top_zm_casos">otras ciudades</a>
-los casos se han estabilizado o descendido para luego volver a aumentar.</p>
+y parece haber empezado a descender en la segunda semana de junio. Por
+otro lado, los fallecimientos
+<a href="/muertes#muertes_tipomun">se mantienen estables</a>.
+En conjunto esto sugiere que la epidemia ya no está creciendo en esta
+metrópolis, pero el riesgo sigue siendo de los más altos del país, y
+<a href="/municipios#top_zm_casos">otras ciudades</a> han mostrado
+rebrotes.</p>
 
 <p>Otras
 <a href="/municipios#top_zm_casos">zonas</a>

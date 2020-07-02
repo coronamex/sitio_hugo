@@ -3,8 +3,12 @@ title: "La epidemia se mueve al interior del país"
 name: "muertes_tipomun"
 draft: false
 descripcion: '<p>Esta gráfica muestra el número de fallecimientos confirmados
-por COVID-19 en el Valle de México, las otras zonas metropolitanas del
-país y los municipios no metropolitanos. Aunque los fallecimientos siguen
+por COVID-19 en el
+<a href="/municipios#vm_casos">Valle de México</a>,
+<a href="/municipios#top_zm_casos">otras</a>
+<a href="/municipios#top_zm_casos2">zonas</a>
+<a href="/municipios#top_zm_casos3">metropolitanas</a>
+del país y los municipios no metropolitanos. Aunque los fallecimientos siguen
 acelerándose a nivel nacional, su distribución geográfica ha cambiado
 con el tiempo.</p>
 
@@ -12,7 +16,10 @@ con el tiempo.</p>
 fallecimientos, pero éstos se han estabilizado (al igual que
 los <a href="/municipios#vm_casos">casos</a>) desde mediados de mayo.
 Ahora vemos que los fallecimientos (y los casos) siguen acelerándose
-en otras zonas metropolitanas.</p>'
+en
+<a href="/municipios#top_zm_casos">otras</a>
+<a href="/municipios#top_zm_casos2">zonas</a>
+<a href="/municipios#top_zm_casos3">metropolitanas</a>.</p>'
 imagen: "imagenes/muertes_nacionales_tipo_mun.png"
 imagen2x: "imagenes/muertes_nacionales_tipo_mun@2x.png"
 alt: ''

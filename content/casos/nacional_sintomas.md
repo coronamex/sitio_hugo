@@ -6,7 +6,7 @@ descripcion: '<p>Esta gráfica muestra el número de casos en México
 de acuerdo a la fecha en que empezaron a mostrar síntomas.</p>
 
 <p>Debido a que hay un
-<a href="/clinicos#tiempo_deteccion">retraso típico de 10 días</a>
+<a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>
 entre el tiempo que una persona contagiada de COVID-19 muestra síntomas y
 su caso es confirmado, los casos que se reportan hoy corresponden a contagios
 ocurridos días atrás (hasta dos semanas). Por lo tanto, no tenemos el número
