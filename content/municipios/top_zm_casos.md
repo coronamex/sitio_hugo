@@ -19,8 +19,7 @@ de 7 días. El color de las barras indica si los casos estaban aumentando
 hasta hace dos semanas que es cuando tenemos datos
 <a href="/clinicos#tiempo_deteccion">más completos</a>.</p>
 
-<p>Zonas metropolitanas
-<a href="/municipios#top_zm_casos2">Zonas metropolitanas 10-18</a>
+<p><a href="/municipios#top_zm_casos2">Zonas metropolitanas 10-18</a>
 y
 <a href="/municipios#top_zm_casos3">zonas metropolitanas 19-27</a></p>'
 imagen: "imagenes/top_zm_casos.png"
