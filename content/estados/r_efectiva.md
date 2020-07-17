@@ -24,7 +24,7 @@ no se puede medir directamente sino que se estima indirectamente. Este análisis
 adapta el método de <a href="https://rt.live/" target="_blank">rt.live</a>
 que calcula este valor para EEUU. El código para estimar la R efectiva en
 México está
-<a href="https://github.com/coronamex/covid-model/tree/mexico" target="_blank">aquí</a>
+<a href="https://github.com/coronamex/covid-model" target="_blank">aquí</a>
 y los estimados más recientes
 <a href="https://github.com/coronamex/covid-model/tree/mexico/R_efectiva/entidades" target="_blank"> aquí</a>.</p>'
 imagen: "imagenes/r_efectiva.png"
