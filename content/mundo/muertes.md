@@ -1,21 +1,31 @@
 ---
-title: "Muertes acumuladas"
+title: "Mortalidad por COVID-19"
 name: "muertes"
 draft: false
-descripcion: '<p>Esta gráfica es similar a la anterior, pero
-compara el número total de muertes en varios países a partir
-de que cada país detectó al caso 60.</p>
-<p>El número de muertes es mucho más variable que el número de
-casos. Esto sucede porque  hay menos muertes que casos, pero
-también porque la letalidad de una enfermedad
-no sólo depende de la tasa de infección sino también otros
-factores como la frecuencia de comorbilidades y la calidad
-de los servicios médicos, entre otros.</p>'
+descripcion: '<p>El fallecimiento es la consecuencia más grave y directa del
+COVID-19. Además, dado que los fallecimientos se suelen registrar con mayor
+precisión que los contagios, es posible que el número de fallecimientos por
+población (la mortalidad) sea un el más preciso que tenemos sobre la gravedad
+que la epidemia alcanzó en un país. Esta gráfica compara la mortalidad
+acumulada en México con los ocho países con la mayor tasa de mortalidad
+<i>confirmada</i> por COVID-19.</p>
+
+<p>México es uno de los países más poblados del planeta así que aún con
+el gran <a href="/muertes#muertes_tipomun">número de fallecimientos</a>,
+la tasa de mortalidad está por debajo de la de estos países, aunque sigue
+en aumento.</p>
+
+<p>Aunque se considera que los fallecimientos son más fáciles de detectar
+que los contagios, análisis en
+<a href="https://www.youtube.com/watch?v=IRsVT9t8wys" target="_blank">México</a>
+y
+<a href="https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c" target="_blank">otros países</a>
+sugieren que la verdadera mortalidad es mayor que la reportada en prácticamente
+todos los lugares estudiados.</p>'
 imagen: "imagenes/muertes_acumuladas_por_dia.png"
 imagen2x: "imagenes/muertes_acumuladas_por_dia@2x.png"
-alt: 'Curva que muestra el número de muertes acumuladas
-por COVID-19 en varios países a partir del día en que
-se confirmó el caso sesenta en cada país.'
+alt: 'Curva que muestra la mortalidad por población
+por COVID-19 en varios países.'
 Weight: 300
 principal: false
 secciones: ["principal", "mundo"]
