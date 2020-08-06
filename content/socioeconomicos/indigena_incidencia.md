@@ -22,7 +22,7 @@ son más vulnerables que otras comunidades con poblaciones similares.</p>'
 imagen: "imagenes/pob_indigena_exceso_incidencia.png"
 imagen2x: "imagenes/pob_indigena_exceso_incidencia@2x.png"
 alt: ''
-principal: true
+principal: false
 Weight: 1000
 secciones: ["socioeconómicos"]
 etiquetas: ["socioeconómicos", "estimado", "incidencia", "casos", "municipios"]
