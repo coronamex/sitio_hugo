@@ -25,8 +25,8 @@ epidemia. Debido a que los contagiados pueden tardar hasta
 15 días en mostrar síntomas parece que hay menos nuevos casos
 en días recientes pero estos números probablemente aumentarán
 en los próxios días.'
-Weight: 600
-principal: true
-secciones: ["principal", "casos"]
+Weight: 700
+principal: false
+secciones: ["casos"]
 etiquetas: ["nacional", "casos", "clínicos", "hospitalizaciones", "serie_tiempo", "síntomas"]
 ---
