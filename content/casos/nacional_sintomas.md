@@ -1,22 +1,23 @@
 ---
-title: "Casos confirmados en México"
+title: "Casos y hospitalizaciones"
 name: "nacional_sintomas"
 draft: false
 descripcion: '<p>Esta gráfica muestra el número de casos en México
-de acuerdo a la fecha en que empezaron a mostrar síntomas.</p>
+de acuerdo a la fecha en que empezaron a mostrar síntomas. Además
+se muestra que proporción de los casos de cada día han sido hospitalizados.</p>
+
+<p>No sabemos por qué la proporción de hospitalizaciones ha descendido, podría
+ser debido a un aumento en la capacidad de diagnósticos, o un cambio en el
+perfil demográfico de los pacientes, por ejemplo que los contagios se
+den entre
+<a href="/clinicos#casos_def_por_edad">gente más joven</a>.</p>
 
 <p>Debido a que hay un
 <a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>
 entre el tiempo que una persona contagiada de COVID-19 muestra síntomas y
 su caso es confirmado, los casos que se reportan hoy corresponden a contagios
-ocurridos días atrás (hasta dos semanas). Por lo tanto, no tenemos el número
-real de infecciones en los días más recientes.</p>
-
-<p>Sin embargo, podemos utilizar los casos que mostraron
-síntomas hasta hace 15 días para <a href="/casos#sir">estimar</a>
-el número de casos en la actualidad y el
-<a href="/casos#sir_centinela">sistema Centinela</a>
-para estimar el número de casos reales.</p>'
+ocurridos días atrás (hasta dos semanas). Es necesario estimar
+<a href="/casos#sir">estimar</a> el estado actual de la epidemia.</p>'
 imagen: "imagenes/inicio_sintomas_por_fecha_nacional.png"
 imagen2x: "imagenes/inicio_sintomas_por_fecha_nacional@2x.png"
 alt: 'Número de casos de COVID-19 en México que empezaron
