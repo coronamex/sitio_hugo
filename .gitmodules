@@ -1,3 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:coronamex/coronamex.github.io.git
+	branch = master
 [submodule "themes/raditian"]
 	path = themes/raditian
 	url = git@github.com:radity/raditian-free-hugo-theme
+	branch = master
