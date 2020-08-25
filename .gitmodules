@@ -5,3 +5,4 @@
 [submodule "themes/raditian"]
 	path = themes/raditian
 	url = git@github.com:radity/raditian-free-hugo-theme
+	branch = master
