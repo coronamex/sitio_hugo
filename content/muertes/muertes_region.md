@@ -14,14 +14,12 @@ que con los <a href="/casos#nacional_sintomas">casos</a>, hay un
 fallecimientos así que es probable que los números en los días recientes
 aumenten.</p>
 
-<p>El costo en vidas de la pandemia no se limita a las muertes
-directamente causadas por el virus. Personas que no tienen COVID-19 pueden
-fallecer porque la saturación de los sistemas de salud no permite que
-sean atendidas, o porque se ven obligadas a estar encerradas con sus
-abusadores. Análisis en otros países sugieren que la pandemia podría ser
-responsable directa o indirectamente de
-<a href="https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c" target="_blank">60% más fallecimientos que los reportados</a>.
-En México, no sabemos la mortalidad total causada por la pandemia.</p>'
+<p>La gráfica muestra que, si bien la epidemia va en descenso,
+ésta se encuentra
+generalizada en todo el país. Esto significa que
+<a href="/clinicos#riesgos_relativos">todos estamos en riesgo</a>
+y es consistente con el gran número de
+<a href="/municipios#n_municipios">municipios que reportan casos</a>.</p>'
 
 imagen: "imagenes/muertes_region.png"
 imagen2x: "imagenes/muertes_region@2x.png"
