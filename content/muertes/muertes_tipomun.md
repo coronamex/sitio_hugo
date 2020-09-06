@@ -21,7 +21,7 @@ interior del país.</p>
 
 <p>Los fallecimientos confirmados no son la unica
 consecuencia mortal de la epidemia. El
-<a href="/muertes#exceso_de_mortalidad">exceso de mortalidad</a>
+<a href="/muertes#exceso_mortalidad_nacional">exceso de mortalidad</a>
 puede usarse para medir las consecuencias directas e
 indirectas del COVID-19.</p>'
 imagen: "imagenes/muertes_nacionales_tipo_mun.png"
