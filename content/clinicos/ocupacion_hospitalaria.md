@@ -5,7 +5,9 @@ draft: false
 descripcion: '<p>La cantidad de gente hospitalizada en la red IRAG de alcanzó su
 pico a finales de julio. Desde entonces ha habido una reducción en el número
 de pacientes en camas generales, pero el número de pacientes en camas con
-ventilador (UCI) se ha mantenido estable.</p>
+ventilador (UCI) se ha mantenido estable. Estos números incluyen a todos los
+pacientes hospitalizados con infecciones respiratorias aguda-graves (IRAG)
+independientemente del resultado de la prueba para COVID-19.</p>
 
 <p>Estos datos fueron obtenidos a través de la solicitud 0001200360520
 en la
