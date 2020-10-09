@@ -14,9 +14,10 @@ se realiza con
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/stan_seir.r" target="_blank">este código</a>
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
-En su versión más reciente, el modelo estima que los casos nacionales comenzaron
-a descender a mediados de julio, y si la tasa de contactos se mantiene se
-espera que los contagios seguirán disminuyendo en los próximos días.</p>
+En su versión más reciente, el modelo estima han descendido desde
+mediados de julio, y ahora estamos en una meseta y hay más o
+menos la misma probabilidad de que los casos vuelvan a aumentar o
+disminuir.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
 un futuro lejano, ni estima el sub-registro de casos (para eso está el sistema
