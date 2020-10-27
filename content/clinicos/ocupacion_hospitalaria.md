@@ -21,9 +21,8 @@ imagen: "imagenes/ocupacion_hospitalaria.png"
 imagen2x: "imagenes/ocupacion_hospitalaria@2x.png"
 alt: 'La cantidad de gente hospitalizada en la red IRAG de acuerdo
 al tipo de cama que ha requerido.'
-principal: true
 Weight: 410
 principal: false
 secciones: ["clínicos"]
-etiquetas: ["nacional", "clínicos", "hospitalicaciones", "serie_tiempo"]
+etiquetas: ["nacional", "clínicos", "hospitalizaciones", "serie_tiempo"]
 ---
