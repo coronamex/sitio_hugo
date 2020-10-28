@@ -12,7 +12,7 @@ independientemente del resultado de la prueba para COVID-19.</p>
 <p>Estos datos fueron obtenidos a través de la solicitud 0001200360520
 en la
 <a href="https://www.plataformadetransparencia.org.mx/" target="_blank">Plataforma Nacional de Transparencia</a>
-y sólo cubren hasta el 6 de septiembre de 2020. La respuesta oficial de la
+y cubren hasta el 19 de octubre de 2020. La respuesta oficial de la
 Secretaría de Salud y los datos tabulados por entidad federativa se
 encuentran el
 <a href="https://github.com/coronamex/datos/tree/master/hospitalizaciones" target="_blank">repositorio de datos</a>
