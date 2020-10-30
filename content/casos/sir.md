@@ -16,7 +16,7 @@ y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
 Tras un descenso de un par de meses seguido de una meseta, los casos
 parecen volver a aumentar, pero todavía hay posibilidades de cambiar la
-trayectoria. Sólo se muestran los seis mese más recientes.</p>
+trayectoria. Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
 un futuro lejano, ni estima el sub-registro de casos (para eso está el sistema
