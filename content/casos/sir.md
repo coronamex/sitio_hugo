@@ -5,7 +5,7 @@ draft: false
 descripcion: '<p>El número de casos sintomáticos de COVID-19 en una fecha
 refleja el número de contagios en días previos. Sin embargo, hay un
 <a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>
-y variación aleatoria en el muestreo.</p>
+en la confirmación de un caso.</p>
 
 <p>Afortunadamente podemos adaptar un
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
@@ -14,10 +14,9 @@ se realiza con
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/stan_seir.r" target="_blank">este código</a>
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
-En su versión más reciente, el modelo estima han descendido desde
-mediados de julio, y ahora estamos en una meseta y hay más o
-menos la misma probabilidad de que los casos vuelvan a aumentar o
-disminuir.</p>
+Tras un descenso de un par de meses seguido de una meseta, los casos
+parecen volver a aumentar, pero todavía hay posibilidades de cambiar la
+trayectoria. Sólo se muestran los seis mese más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
 un futuro lejano, ni estima el sub-registro de casos (para eso está el sistema
