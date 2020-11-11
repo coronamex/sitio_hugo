@@ -26,7 +26,7 @@ SEIRD. Dos estimadores de letalidad (instantánea y con retraso) se muestran.
 Ninguno hace un buen trabajo durante la epidemia pero convergen una vez
 que el pico epidémico ha pasado.'
 principal: false
-Weight: 1300
+Weight: 1170
 secciones: ["muertes"]
 etiquetas: ["muertes", "serie_tiempo", "modelo", "letalidad", "concepto"]
 ---
