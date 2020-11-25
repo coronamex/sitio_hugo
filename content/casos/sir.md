@@ -14,8 +14,9 @@ se realiza con
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/stan_seir.r" target="_blank">este código</a>
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
-Tras un descenso de un par de meses seguido de una meseta, los casos
-parecen volver a aumentar, pero todavía hay posibilidades de cambiar la
+Tras un "segundo pico" a mediados de octubre, los casos nacionales han
+vuelto a descender, pero esto puede cambiar si se relajan las medidas
+de mitigación, pero todavía hay posibilidades de cambiar la
 trayectoria. Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
