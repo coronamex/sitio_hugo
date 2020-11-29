@@ -15,9 +15,9 @@ se realiza con
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
 Tras un "segundo pico" a mediados de octubre, los casos nacionales han
-vuelto a descender, pero esto puede cambiar si se relajan las medidas
-de mitigación, pero todavía hay posibilidades de cambiar la
-trayectoria. Sólo se muestran los seis meses más recientes.</p>
+vuelto estabilizar. Esto quiere decir que los casos pueden volver a aumentar
+en cualquier momento si bajamos la guardia.
+Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
 un futuro lejano, ni estima el sub-registro de casos (para eso está el sistema
