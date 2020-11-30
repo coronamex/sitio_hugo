@@ -1,6 +1,6 @@
 ---
 title: "Exceso de mortalidad estatal (4/4)"
-name: "exceso_mortalidad_estados1"
+name: "exceso_mortalidad_estados4"
 draft: false
 descripcion: '<p>Cada entidad ha sido afectada de diferentes maneras y
 en diferentes momentos. El <i>exceso de mortalidad</i> nos permite
