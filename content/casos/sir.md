@@ -14,9 +14,8 @@ se realiza con
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/stan_seir.r" target="_blank">este código</a>
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
-Tras un "segundo pico" a mediados de octubre, los casos nacionales han
-vuelto estabilizar. Esto quiere decir que los casos pueden volver a aumentar
-en cualquier momento si bajamos la guardia.
+El "segundo pico" inició a mediados de octubre, y en días recientes el
+número de nuevos casos se incrementado cada vez más rápidamente.
 Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
