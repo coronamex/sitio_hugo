@@ -3,7 +3,7 @@ title: ""
 name: "tiempo_muerte"
 draft: false
 descripcion: '<p>En México, el número de días entre el incio de
-síntomas de COVID-19 y el fallecimiento tiene una mediana de 9 días.
+síntomas de COVID-19 y el fallecimiento tiene una mediana de 11 días.
 Este número es similar la mediana de 10 días reportada en
 <a href="https://www.epicentro.iss.it/en/coronavirus/bollettino/Report-COVID-2019_2_april_2020.pdf" target="_blank">un estudio sobre Italia</a>,
 pero menor que la mediana de 14 días reportada entre
