@@ -14,8 +14,10 @@ se realiza con
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/stan_seir.r" target="_blank">este código</a>
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
-El "segundo pico" inició a mediados de octubre, y en días recientes el
-número de nuevos casos se incrementado cada vez más rápidamente.
+Los casos registrados comenzaron a disminuir en diciembre, pero esto podría deberse
+tanto a una verdadera disminución de los contagios, como a una menor capacidad
+de registro de casos durante los días festivos, sobretodo porque
+<a href="/muertes#muertes_tipomun">los fallecimientos siguen en aumento</a>.
 Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
