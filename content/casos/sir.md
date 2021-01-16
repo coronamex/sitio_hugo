@@ -17,7 +17,9 @@ y los valores numéricos están
 Los casos registrados comenzaron a disminuir en diciembre, pero esto podría deberse
 tanto a una verdadera disminución de los contagios, como a una menor capacidad
 de registro de casos durante los días festivos, sobretodo porque
-<a href="/muertes#muertes_tipomun">los fallecimientos siguen en aumento</a>.
+<a href="/muertes#muertes_tipomun">los fallecimientos siguen en aumento</a>. En
+días más recientes, parece haber un nuevo aumento acelerado que todavía
+no es capturado por el modelo.
 Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
