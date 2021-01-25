@@ -14,12 +14,11 @@ se realiza con
 <a href="https://github.com/coronamex/visualizando/blob/master/casos/stan_seir.r" target="_blank">este código</a>
 y los valores numéricos están
 <a href="https://github.com/coronamex/visualizando/tree/master/estimados" target="_blank">aquí</a>.
-Los casos registrados comenzaron a disminuir en diciembre, pero esto podría deberse
-tanto a una verdadera disminución de los contagios, como a una menor capacidad
+Hubo un aparente descenso en el número de casos en diciembre, aunque esto
+podría deberse a una menor capacidad
 de registro de casos durante los días festivos, sobretodo porque
-<a href="/muertes#muertes_tipomun">los fallecimientos siguen en aumento</a>. En
-días más recientes, parece haber un nuevo aumento acelerado que todavía
-no es capturado por el modelo.
+<a href="/muertes#muertes_tipomun">los fallecimientos sigueron aumentando</a>.
+En lo que va del 2021, la epidemia no ha dejado de crecer.
 Sólo se muestran los seis meses más recientes.</p>
 
 <p>Ningún modelo captura la realidad completa, este modelo no puede pronosticar
