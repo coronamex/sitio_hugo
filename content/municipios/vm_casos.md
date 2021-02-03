@@ -1,5 +1,5 @@
 ---
-title: "La epidemia se desacelera en el Valle de México"
+title: "El Valle de México sigue en un momento crítico"
 name: "vm_casos"
 draft: false
 descripcion: '<p>La zona metropolitana del Valle de México ha sido por
@@ -10,12 +10,11 @@ con un <a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>,
 sólo podemos estar razonablemente seguros del número de casos hace unas dos
 semanas</p>
 
-<p>El número de casos nuevos comenzó a estabilizarse alrededor del 15 de mayo,
-y parece haber empezado a descender en la segunda semana de junio. Por
-otro lado, los fallecimientos
-<a href="/muertes#muertes_tipomun">se mantienen estables</a>.
-En conjunto esto sugiere que la epidemia ya no está creciendo en esta
-metrópolis, pero el riesgo sigue siendo de los más altos del país, y
+<p>El número de casos se ha mostrado un ligero descenso en los últimos
+días, pero la tendencia a mediano plazo sigue siendo a la alza, mientras
+que las defunciones
+<a href="/muertes#muertes_tipomun">continúan en aumento</a>.
+El riesgo sigue siendo de los más altos del país, y
 <a href="/municipios#top_zm_casos">otras ciudades</a> han mostrado
 rebrotes.</p>
 

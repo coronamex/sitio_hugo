@@ -1,26 +1,22 @@
 ---
-title: "Muertes confirmadas en México"
+title: "La segunda ola es diferente"
 name: "muertes_region"
 draft: false
-descripcion: '<p>Esta gráfica muestra el número de defunciones confirmadas
-por COVID-19 en cada una de las ocho
-<a href="https://es.wikipedia.org/wiki/Anexo:Zonas_económicas_de_México" target="_blank">regiones geográficas</a>
-del país.</p>
+descripcion: '<p>Cada
+<a href="https://es.wikipedia.org/wiki/Anexo:Zonas_económicas_de_México" target="_blank">región geográfica</a>
+del país ha sido afectada de manera diferente y en diferentes momentos.</p>
 
-<p>Los fallecimientos se han distribuido a lo largo del país, pero las
-regiones Centrosur, Noroeste y Suroeste han sido las más golpeadas. Al igual
-que con los <a href="/casos#nacional_sintomas">casos</a>, hay un
-<a href="/clinicos#tiempo_deteccion">retraso</a> en la detección de
-fallecimientos así que es probable que los números en los días recientes
-aumenten.</p>
+<p>La primera "ola" inició en la zona Centrosur, que incluye al
+<a href="/municipios#vm_casos">Valle de México</a>,
+y llegó relativamente tarde a las regiones Centronorte, Noreste y Occidente,
+pero estas regiones nunca lograron salir de esta primera "ola" antes de la
+segunda. Por otro lado las regiones Sureste y Suroeste fueron afectadas
+el verano pasado y, hasta el momento, no han sido afectadas tan gravemente por
+la segunda "ola", aunque esto siempre puede cambiar.</p>
 
-<p>La gráfica muestra que, si bien la epidemia va en descenso,
-ésta se encuentra
-generalizada en todo el país. Esto significa que
-<a href="/clinicos#riesgos_relativos">todos estamos en riesgo</a>
-y es consistente con el gran número de
-<a href="/municipios#n_municipios">municipios que reportan casos</a>.</p>'
-
+<p>De cualquier forma, está claro que hay un incremento generalizado en
+el número de defunciones a lo largo del país, y todavía no vemos
+señales de descenso.</p>'
 imagen: "imagenes/muertes_region.png"
 imagen2x: "imagenes/muertes_region@2x.png"
 alt: 'Muertes confirmadas por COVID-19 por fecha de defunción por

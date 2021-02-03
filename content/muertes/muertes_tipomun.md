@@ -8,16 +8,16 @@ por COVID-19 en el país que corresponden al
 <a href="/municipios#top_zm_casos">otras</a>
 <a href="/municipios#top_zm_casos2">zonas</a>
 <a href="/municipios#top_zm_casos3">metropolitanas</a>, y zonas no
-metropolitanas. Los
-fallecimientos empezaron a disminuir desde finales de julio, un par de
-semanas después de que los <a href="/casos#sir">casos confirmados</a>
-empezaran a disminuir.</p>
+metropolitanas. Los fallecimientos continúan a la alza a nivel nacional.</p>
 
-<p>La distribución geográfica de la epidemia ha
-<a href="/muertes#muertes_region">cambiado con el tiempo</a>.
-El Valle de México concentró la mayor cantidad de
-fallecimientos al inicio de la epidemia que posteriormente se extendió al
-interior del país.</p>
+<p>Al principio de la segunda "ola" la mayoría de los nuevos fallecimientos
+se concentraron en el Valle de México, y aunque las defunciones continúan
+aumentando, parecen hacerlo más lentamente en días recientes. Lamentablemente,
+las defunciones en otras zonas metropolitanas aumentan cada vez con mayor
+rapidez lo que mantiene la tendencia nacional. Probablemente veremos un
+cambio en la distribución geográfica de la
+epidemia en las próximas semanas al igual que ocurrió con la
+<a href="/muertes#muertes_region">primera "ola"</a>.</p>
 
 <p>Los fallecimientos confirmados no son la unica
 consecuencia mortal de la epidemia. El
