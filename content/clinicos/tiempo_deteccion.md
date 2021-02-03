@@ -4,24 +4,24 @@ name: "tiempo_deteccion"
 draft: false
 descripcion: '<p>La gente que se enferma de COVID-19 no llega a una unidad
 médica de manera inmediata, y cuando llegan a una unidad médica, la prueba
-diagnóstica todavía puede tardar. La parte de arriba de la gráfica muestra que
-en México un caso tarda típicamente 10 días desde el inicio de síntomas hasta
-ser confirmado, y la mayoría de los casos se confirman en menos de dos semanas.
-También podemos ver que más o menos la mitad del tiempo se debe al retraso
-entre el inicio de síntomas y el registro de un paciente en la unidad médica,
-y la otra mitad es la demora de la prueba.</p>
+diagnóstica todavía puede tardar. Esta gráfica muestra el número de días que
+normalmente pasan entre el inicio de síntomas y el ingreso al sistema de
+salud (morado), entre el ingreso y la confirmación del caso (naranja), así
+como el tiempo total entre el inicio de síntomas y la confirmación (verde).
+Estos tiempos pueden cambiar a lo largo del tiempo y entre regiones, por lo
+que se muestra es el promedio nacional en los últimos 60 días.</p>
 
-<p>Estos números se estiman comparando las curvas de casos acumulados
-de acuerdo a la fecha de inicio de síntomas, la fecha de registro de los casos
-en una unidad médica, y el numero de caso confirmados por fecha. Estas
-curvas se muestran en la parte de abajo de la gráfica y el desplazamiento
-de las mismas hacia la derecha nos indica el retraso.</p>'
+<p>Vemos que en México un caso tarda típicamente 11 días en ser confirmado, y
+4 ó 5 días de este tiempo es el tiempo entre el inicio de síntomas y el ingreso
+al sistema de salud. Esto es demasiado lento ya que una persona es
+altamente contagiosa 2 días antes de mostrar síntomas, y un contagiado
+suele tardar 5 días en mostrar síntomas, o sea que para cuando una persona
+ingresa al sistema de salud sus contagios ya han contagiado a otras personas.
+Por lo tanto es importante acudir al sistema de salud y buscar hacerse la
+prueba lo antes posible.</p>'
 imagen: "imagenes/tiempo_deteccion.png"
 imagen2x: "imagenes/tiempo_deteccion@2x.png"
-alt: 'Arriba, esta imagen muestra las curvas de casos confirmados de
-COVID-19 acumulados nacionales de acuerdo a cuando iniciaron los
-síntomas, cuando los pacientes ingresaron a una unidad médica, y
-cundo el caso fue confirmado. Abajo, se muestra la probabilidad de
+alt: 'Se muestra la probabilidad de
 que un casos sea detectado un número de días después del inicio de síntomas.
 También se muestran las distribuciones de probabilidad de tiempo de
 que un paciente llegue a una unidad médica, y de que el caso sea
