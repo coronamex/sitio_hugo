@@ -1,5 +1,5 @@
 ---
-title: "Los municipios marginados cada vez más afectados"
+title: 'La segunda "ola" se concentra en las ciudades'
 name: "casos_margmun"
 draft: false
 descripcion: '<p>La epidemia en México se ha concentrado
@@ -7,23 +7,23 @@ descripcion: '<p>La epidemia en México se ha concentrado
 <a href="/municipios#top_zm_casos">las</a>
 <a href="/municipios#top_zm_casos2">zonas</a>
 <a href="/municipios#top_zm_casos3">metropolitanas</a>
-que suelen tener mayor acceso a servicios. Sin embargo
-con forme ha pasado el tiempo, el número de municipios afectados
-<a href="/municipios#n_municipios">ha seguido incrementándose</a>.
-Esta gráfica muestra como el porcentaje de casos confirmados
-en residentes de municipios cada vez más marginados ha aumentado
-progresivamente con el tiempo, aunque todavía representan una proporción menor
-que la población nacional que vive en estos municipios.</p>
+que suelen tener mayor acceso a servicios. Sin embargo, en cada
+"ola" el número de municipios afectados
+<a href="/municipios#n_municipios">se incrementas</a>.
+Esta gráfica muestra como en la segunda "ola" la proporción de casos confirmados
+en municipios marginados ha sido menor que en la primera "ola". Esto indica
+que, de momento, una mayor proporción de la epidemia se ha concentrado en zonas
+urbanas.</p>
 
 <p>Es importante notar que estas proporciones son subestimados del verdadero
 número de personas en situación de marginación que se han contagiado de
-COVID-19. Esto porque aún cuando las zonas metropolitanas suelen considerarse
-zonas de muy baja marginación, ya que suelen existir todos los servicios,
+COVID-19. Esto porque aún cuando las zonas metropolitanas se consideraran
+zonas de muy baja marginación, porque suelen existir todos los servicios,
 siempre hay una proporción de la población que vive en estas zonas y carece
-del acceso a muchos servicios. El único indicador socioeconómico que
-tenemos a nivel de paciente, es el hablar lengua indígena y se observa
-que esto
-<a href="/clinicos#riesgos_relativos">incrementa el riesgo de fallecer</a>
+del acceso a muchos servicios. Los indicadores socioeconómicos que
+tenemos a nivel de paciente, declararse indígena y hablar lengua indígena,
+muestran que personas en estos grupos tienen un
+<a href="/clinicos#riesgos_relativos">mayor riesgo de ser hospitalizados y fallecer</a>
 por COVID-19 en México.</p>'
 imagen: "imagenes/casos_margmun.png"
 imagen2x: "imagenes/casos_margmun@2x.png"
