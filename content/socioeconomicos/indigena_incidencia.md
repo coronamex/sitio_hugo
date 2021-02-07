@@ -1,29 +1,27 @@
 ---
-title: "Las comunidades indígenas son más vulnerables"
-name: "indigena_incidencia"
+title: "Indígenas tienen menor riesgo en sus comunidades"
+name: "indigena_mortalidad"
 draft: false
-descripcion: '<p>Los municipios con mayor población
-<a href="/municipios#incidencia_obs_esp">casi siempre tienen más casos</a>,
-y dado que la mayoría de las poblaciones indígenas tienen poblaciones
-pequeñas, uno(a) esperaría que estuvieran más protegidas de la epidemia.
-Sin embargo, si tomamos en cuenta el tamaño poblacional,
-la densidad y el número de pruebas realizadas para calcular el
-<a href="/municipios#mapa_exceso_incidencia"><em>exceso de casos</em></a>
-por municipio, podemos observar una tendencia (línea azul) en la que municipios
-con mayor proporción de población indígena, también tienen un mayor
-<em>exceso de casos</em> que está inevitablemente ligado a la marginación
-y <a href="/socioeconomicos#coneval_ind">pobreza</a> en estas comunidades.</p>
+descripcion: '<p>Al ser relativamente pequeños, los municipios indígenas han
+reportado relativamente pocos casos y defunciones por COVID-19.
+La gráfica muestra la mortalidad por COVID-19 en municipios pequeños en relación
+con población indígena de estos municipios. Aunque hay una ligera tendencia
+hacia una menor mortalidad en municipios indígenas, esta tendencia es débil
+pero al menos podemos decir que habitantes de municipios indígenas tienen
+un nivel de riesgo similar a otros municipios pequeños.</p>
 
-<p>Esto no quiere decir que la mayoría de los casos ocurran en comunidades
-indígenas. De hecho la gran mayoría de los casos se han dado en las
-<a href="/municipios#top_zm_casos">zonas metropolitanas</a> del país,
-pero significa que las comunidades indígenas
-son más vulnerables que otras comunidades con poblaciones similares.</p>'
-imagen: "imagenes/pob_indigena_exceso_incidencia.png"
-imagen2x: "imagenes/pob_indigena_exceso_incidencia@2x.png"
+<p>Esto no quiere decir las personas indígenas tengan el mismo riesgo que
+quienes no son indígenas. Después de todo, muchos indígenas viven en zonas
+metropolitanas. De hecho, el ser indígena en México, incremente el
+<a href="/clinicos#riesgos_relativos">riesgo de fallecer por COVID-19</a>
+en un 20% en promedio. En otras palabras, los indígenas se encuentran
+en una situación riesgo elevado por la pandemia, pero este riesgo disminuye
+para aquéllos que viven en comunidades predominantemente indígenas.</p>'
+imagen: "imagenes/pob_indigena_mortalidad.png"
+imagen2x: "imagenes/pob_indigena_mortalidad@2x.png"
 alt: ''
 principal: false
-Weight: 1000
+Weight: 1200
 secciones: ["socioeconómicos"]
 etiquetas: ["socioeconómicos", "estimado", "incidencia", "casos", "municipios"]
 ---

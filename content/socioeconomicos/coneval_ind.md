@@ -1,37 +1,36 @@
 ---
-title: "Los municipios más pobres son más vulnerables"
+title: 'Vivir "al día" incrementa el riesgo'
 name: "coneval_ind"
 draft: false
-descripcion: '<p>Múltiples factores socioeconómicos pueden hacer a una
-población más o menos vulnerable a la epidemia. En México, el
-<a href="https://www.coneval.org.mx/Medicion/Paginas/Pobreza-municipal.aspx" target="_blank">CONEVAL</a>
-<a href="https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Presentacion_resultados_pobreza_municipal_2015.pdf" target="_blank">mide la pobreza</a>
-utilizando
-<a href="https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf" target="_blank">decenas de indicadores</a> que consideran dos aspectos fundamentales: el acceso a
-los derechos sociales y el ingreso. Muchos de los indicadores de carencias
-sociales están asociados a un aumento en la
-vulnerabilidad municipal a la epidemia, mientras que la relación con
-el nivel de ingreso es más equívoca, al menos a nivel municipal.</p>
+descripcion: '<p> Aunque parece sorpresivo, municipios en donde un 30% de la
+población carece de acceso al sistema de salud, tienen prácticamente la misma
+mortalidad que municipios donde sólo el 3% tiene esta carencia. De hecho, a nivel
+municipal no parece haber relación entre carencias sociales y mortalidad
+por COVID-19. Aún mas extraño,
+municipios con mayor pobreza (la combinación de carencias sociales e ingresos
+por debajo de la línea de bienestar), tienen una mortalidad mucho menor que
+municipios con menos pobreza. Esto sucede probablemente porque los municipios
+con más pobreza y carencias han estado más aislados de la epidemia.</p>
 
-<p>La imagen muestra que municipios con una mayor proporción de la
-población con 3 ó más carencias sociales, o con malas condiciones de vivienda
-tienen un mayor
-<a href="/municipios#mapa_exceso_incidencia"><em>exceso de casos</em></a>.
-Esto se cuantifica con la línea de tendencia azul que tiene una pendiente
-positiva. Por otro lado, municipios con una mayor proporción de la
-población con un ingreso por debajo de la línea de bienestar tienen un menor
-<em>exceso de casos</em> como lo indica la pendiente negativa de la línea
-azul. Esto sucede porque los municipios donde el ingreso es menor
-suelen estar relativamente aislados de las
-<a href="/municipios#top_zm_casos">zonas metropolitanas</a> que son focos de
-infección. La pobreza es la combinación de estos aspectos y observamos que
-municipios con más pobreza extrema también reportan mas
-<em>exceso de casos</em>.</p>'
+<p>Por otro lado, municipios donde una mayor proporción de la población vive
+con ingresos menores a la línea de bienestar, pero con acceso a todos
+los derechos sociales básicos (vulnerables por ingreso) tienen una mortalidad
+por COVID-19 mucho mayor. Esto sugiere que aún con acceso a los derechos
+sociales, si una persona tiene bajos ingresos y vive "al díá", probablemente
+tiene que salir a laborar y exponerese a la epidemia, lo cual resulta en
+una mayor mortalidad.</p>
+
+<p>Los indicadore
+<a href="https://www.coneval.org.mx/Medicion/Paginas/Pobreza-municipal.aspx" target="_blank">indicadores</a>
+de
+<a href="https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Presentacion_resultados_pobreza_municipal_2015.pdf" target="_blank">pobreza</a>
+<a href="https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf" target="_blank">municipal</a>
+vienen del CONEVAL.</p>'
 imagen: "imagenes/coneval_exceso_incidencia.png"
 imagen2x: "imagenes/coneval_exceso_incidencia@2x.png"
 alt: ''
 principal: false
-Weight: 1200
+Weight: 1000
 secciones: ["socioeconómicos"]
 etiquetas: ["socioeconómicos", "estimado", "incidencia", "casos", "municipios"]
 ---
