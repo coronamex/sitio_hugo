@@ -2,15 +2,14 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>Por segunda vez desde que inició la segunda "ola" vemos
-indicios de un descenso en el número de casos. Sin embargo, el descenso en
-diciembre probablemente se debió a la disminución en la capacidad de
-vigilancia durante los días festivos. El descenso actual, probablemente refleja
-una desaceleración real de la epidemia. De ser cierto, veremos una disminución
-en los
-<a href="/muertes#muertes_tipomun">fallecimientos</a> con un par de semanas
-de retraso. De cualquier forma, el momento sigue siendo de alto riesgo
-en todo el país.</p>
+descripcion: '<p>A nivel nacional la epidemia acumula semanas de descenso
+sostenido tanto en contagios como en
+<a href="/muertes#muertes_tipomun">fallecimientos</a>.
+A nivel local,
+el relajamiento de las medidas de mitigación ha llevado a ligeros incrementos
+en los días más recientes. Todavía estamos a tiempo de evitar otra gran "ola"
+pero es necesario seguir con las medidas de mitigación y vacunarse cuando sea
+nuestro turno.</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
