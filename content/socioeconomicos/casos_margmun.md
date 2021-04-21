@@ -9,7 +9,7 @@ descripcion: '<p>La epidemia en México se ha concentrado
 <a href="/municipios#top_zm_casos3">metropolitanas</a>
 que suelen tener mayor acceso a servicios. Sin embargo, en cada
 "ola" el número de municipios afectados
-<a href="/municipios#n_municipios">se incrementas</a>.
+<a href="/municipios#n_municipios">se incrementa</a>.
 Esta gráfica muestra como en la segunda "ola" la proporción de casos confirmados
 en municipios marginados ha sido menor que en la primera "ola". Esto indica
 que, de momento, una mayor proporción de la epidemia se ha concentrado en zonas
