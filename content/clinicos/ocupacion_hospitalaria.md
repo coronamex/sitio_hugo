@@ -1,7 +1,7 @@
 ---
 title: "Ocupación hospitalaria"
 name: "ocupacion_hospitalaria"
-draft: false
+draft: true
 descripcion: '<p>La cantidad de gente hospitalizada en la red IRAG de alcanzó su
 pico a finales de julio. Desde entonces ha habido una reducción en el número
 de pacientes en camas generales, pero el número de pacientes en camas con

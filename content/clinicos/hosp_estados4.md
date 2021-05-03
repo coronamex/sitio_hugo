@@ -1,7 +1,7 @@
 ---
 title: "Ocupación hospitalaria estatal (4/4)"
 name: "hosp_estados4"
-draft: false
+draft: true
 descripcion: '<p>Estas gráficas muestran la ocupación ocupación
 y disponibilidad hospitalaria absoluta en la red IRAG en cada una de las
 entidades federativas del país en orden alfabético hasta el 19 de octubre
