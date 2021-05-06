@@ -2,14 +2,18 @@
 title: 'El mundo ya está en la tercera "ola"'
 name: "muertes_mundiales"
 draft: false
-descripcion: '<p>Ha habido dos grandes "olas" de mortalidad por COVID-19 en
-lo que va de la pandemia. La primera entre abril y mayo de 2020 y la
-segunda entre noviembre de 2020 y febrero de 2021. Durante esta segunda etapa
+descripcion: '<p>En México ha habido
+<a href="/muertes#muertes_tipomun">dos</a>
+<a href="/muertes#exceso_mortalidad_nacional">grandes</a>
+"olas" de mortalidad
+por COVID-19 en lo que va de la pandemia. Sin embargo, a nivel mundial
+nos encontramos en medio de la tercera. La primera "ola" mundial ocurrió
+entre abril y mayo de 2020, la segunda entre noviembre de 2020 y febrero de
+2021. Durante esta segunda etapa
 llegamos a confirmar cerca de 15 mil defunciones por día debido a COVID-19.
-Aunque el número de defunciones registradas diariamente no ha regresado a
-los niveles de la primera "ola", en las últimas semanas vemos un nuevo
-aumento global en el número de casos, con Brasil como el país con el mayor
-número reciente de defunciones.</p>
+Desde mediados de marzo de 2021, han ocurrido un nuevo incremento acelerado
+en el número de defunciones globales, que ya está cerca de superar el máximo
+histórico, con Brasil e India como los países más afectados.</p>
 
 <p>La gráfica muestra el número de muertes (en una ventana deslizante de 7 días)
 en los 9 países con la mayor cantidad de muertes confirmadas por COVID-19,

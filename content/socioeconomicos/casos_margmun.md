@@ -30,7 +30,7 @@ imagen2x: "imagenes/casos_margmun@2x.png"
 alt: 'Distribución de casos confirmados de COVID-19 de acuerdo al
 grado de marginación municipal determinad por el CONEVAL en 2015 a lo
 largo de la epidemia.'
-principal: true
+principal: false
 Weight: 990
 secciones: ["socioeconómicos"]
 etiquetas: ["socioeconómicos", "incidencia", "casos", "municipios"]

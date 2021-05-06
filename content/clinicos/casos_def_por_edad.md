@@ -1,5 +1,5 @@
 ---
-title: "Mayores de 60 son vulnerables, jóvenes alimentan la epidemia"
+title: "Mayores de 60 son vulnerables, la vacunación los protege"
 name: "casos_def_por_edad"
 draft: false
 descripcion: '<p>Aunque todos estamos en riesgo, desde el inicio de la
@@ -8,21 +8,22 @@ En México, el riesgo relativo de fallecer por COVID-19
 <a href="/clinicos#riesgos_relativos">se duplica </a> con cada diez
 años más de edad.</p>
 
-<p>Esta gráfica muestra que aunque sólo el 20% de los contagios occurren
-entre personas de 60 años o más, el 60% de los fallecimientos ocurren entre
-estos adultos mayores. Además, la gráfica muestra como la mayoría de los
-contagios ocurren entre la gente más joven es responsable de la mayor
-cantidad de casos. Al inicio de la epidemia, alrededor del 35% de los
-contagiados eran menores de 40 años, pero esta proporción a subido al 45%
-conforme avanza la epidemia. Aunque estas personas tienen un menor riesgo
-individual, pueden transmitir la enfermedad y estos contagios permiten
-que la epidemia siga circulando.</p>'
+<p>A lo largo de la pandemia, cerca del 70% de los fallecimientos han ocurrido
+entre personas de 60 ó mas años, aunque sólo el 20% de los contagios,
+y el 11% de la población nacional, corresponde a este grupo.</p>
+
+<p>Afortunadamente, desde principios de abril hemos visto como se reduce
+la proporción de contagios y fallecimientos entre adultos mayores, lo cuál
+casi seguro
+<a href="/clinicos#mortalidad_edad_tipomun">corresponde al programa de vacunación</a>.
+Aún falta muchas personas por vacunar, pero es importante que acudamos cuando
+sea nuestro turno.</p>'
 imagen: "imagenes/casos_def_por_edad.png"
 imagen2x: "imagenes/casos_def_por_edad@2x.png"
 alt: 'Casos nuevos y fallecimientos por día de inicio de síntomas
 y grupo de edad en México'
 principal: false
-Weight: 425
+Weight: 700
 secciones: ["clínicos"]
-etiquetas: ["nacional", "clínicos", "casos", "muertes", "serie_tiempo"]
+etiquetas: ["nacional", "clínicos", "casos", "muertes", "serie_tiempo", "vacunación"]
 ---

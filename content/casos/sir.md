@@ -2,14 +2,16 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>A nivel nacional la epidemia acumula semanas de descenso
+descripcion: '<p>A nivel nacional la epidemia acumula meses de descenso
 sostenido tanto en contagios como en
-<a href="/muertes#muertes_tipomun">fallecimientos</a>.
-A nivel local,
-el relajamiento de las medidas de mitigación ha llevado a ligeros incrementos
-en los días más recientes. Todavía estamos a tiempo de evitar otra gran "ola"
-pero es necesario seguir con las medidas de mitigación y vacunarse cuando sea
-nuestro turno.</p>
+<a href="/muertes#muertes_tipomun">fallecimientos</a>, y además hay
+<a href="/clinicos#mortalidad_edad_tipomun">buenas</a>
+<a href="/clinicos#casos_def_por_edad">señales</a> tempranas del programa
+de vacunación. Sin embargo, el riesgo de una tercera "ola" permanece, y
+hay varios
+<a href="/municipios#top_zm_casos">repuntes a nivel local</a>.
+Por eso es importante mantener todas las medidas de prevención y vacunarnos
+cuando sea nuestro turno.</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>

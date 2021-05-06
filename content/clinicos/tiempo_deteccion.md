@@ -26,7 +26,7 @@ También se muestran las distribuciones de probabilidad de tiempo de
 que un paciente llegue a una unidad médica, y de que el caso sea
 confirmado una vez que el paciente llegó a ala unidad médica'
 principal: false
-Weight: 450
+Weight: 800
 secciones: ["clínicos", "casos"]
 etiquetas: ["nacional", "casos", "clínicos", "estimado"]
 ---

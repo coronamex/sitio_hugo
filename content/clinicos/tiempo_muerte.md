@@ -17,7 +17,7 @@ imagen: "imagenes/tiempo_defuncion.png"
 imagen2x: "imagenes/tiempo_defuncion@2x.png"
 alt: 'Distribución del tiempo en días desde el inicio de síntomas
 hasta la defunción.'
-Weight: 500
+Weight: 750
 principal: false
 secciones: ["clínicos", "muertes"]
 etiquetas: ["nacional", "muertes", "clínicos"]

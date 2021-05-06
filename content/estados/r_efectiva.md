@@ -44,8 +44,8 @@ imagen2x: "imagenes/r_efectiva@2x.png"
 alt: 'R efectiva a través del tiempo en estados con al menos 500 casos.
 Mediana e intervalo modal (Highest Density Posterior [HDP]) estimados
 via MCMC.'
-principal: true
+principal: false
 Weight: 1140
-secciones: ["estados", "principal"]
+secciones: ["estados"]
 etiquetas: ["estados", "modelo", "estimados", "serie_tiempo"]
 ---

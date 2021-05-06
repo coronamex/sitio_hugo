@@ -1,5 +1,5 @@
 ---
-title: "El Valle de México sigue en un momento crítico"
+title: "El Valle de México ha sido la región más afectada"
 name: "vm_casos"
 draft: false
 descripcion: '<p>La zona metropolitana del Valle de México ha sido por
@@ -10,13 +10,14 @@ con un <a href="/clinicos#tiempo_deteccion">retraso típico de 11 días</a>,
 sólo podemos estar razonablemente seguros del número de casos hace unas dos
 semanas</p>
 
-<p>El número de casos se ha mostrado un ligero descenso en los últimos
-días, pero la tendencia a mediano plazo sigue siendo a la alza, mientras
-que las defunciones
-<a href="/muertes#muertes_tipomun">continúan en aumento</a>.
-El riesgo sigue siendo de los más altos del país, y
-<a href="/municipios#top_zm_casos">otras ciudades</a> han mostrado
-rebrotes.</p>
+<p>En los últimos meses, el número de casos,
+<a href="/muertes#muertes_tipomun">defunciones</a>,
+y
+<a href="/muertes#exceso_mortalidad_estados1">exceso de mortalidad</a>
+han mostrado un descenso sostenido, pero sus tasas de transmisión y mortalidad
+siguen siendo
+<a href="/estados#estados_100mil">la más alta del país</a>
+aún cuando consideramos el tamaño poblacional.</p>
 
 <p>Otras
 <a href="/municipios#top_zm_casos">zonas</a>
