@@ -4,13 +4,13 @@ name: "mortalidad_edad_tipomun"
 draft: false
 descripcion: '<p>Para saber si la vacunación está funcionando necesitamos
 comparar poblaciones que hayan sido vacunadas con otras que no lo hayan sido.
-En México la vacunación contra COVID-19 inició en adultos de 60 ó más años que
-residen en municipios no metropolitanos. Observamos que en abril de 2021,
-después de la segunda "ola", los fallecimientos han empezado a disminuir más
-rápidamente justo en el grupo de edad que se vacunó primero, y en los municipios
-que se vacunaros primero. Esta diferencia no ocurrió después de la primera
-"ola" cuando nadie estaba vacunado, y todavía no se observa en las zonas
-metropolitanas que se vacunaron después.</p>
+En México la vacunación contra COVID-19 inició en adultos de 60 ó más años,
+y observamos que en abril de 2021, después de la segunda "ola", los
+fallecimientos han empezado a disminuir más
+rápidamente justo en el grupo de edad que se vacunó primero, una diferencia no
+ocurrió después de la primera
+"ola" cuando nadie estaba vacunado. Todavía es pronto para ver un efecto
+en los siguientes grupos de edad que se han vacunado.</p>
 
 <p>Al mismo tiempo, hemos visto que la proporción de casos y defunciones
 nacionales que corresponden a personas de 60 ó más años
