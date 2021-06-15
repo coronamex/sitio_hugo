@@ -8,7 +8,7 @@ medir el costo humano en cada entidad.</p>
 
 <p>Estas gráficas muestran el
 <a href="#exceso_mortalidad_nacional"><i>exceso de mortalidad</i></a>
-hasta el 24 de abril para 8 de las 32 entidades federativas del país.
+hasta el 8 de mayo para 8 de las 32 entidades federativas del país.
 La región con color indica las semanas con <i>exceso de mortalidad</i>.
 Se indica el número absoluto de exceso de mortalidad para canda entidad y el
 incremento porcentual. Las entidades federativas están organizadas
