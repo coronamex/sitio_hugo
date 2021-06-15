@@ -2,16 +2,18 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>A nivel nacional la epidemia acumula meses de descenso
-sostenido tanto en contagios como en
-<a href="/muertes#muertes_tipomun">fallecimientos</a>, y además hay
-<a href="/clinicos#mortalidad_edad_tipomun">buenas</a>
-<a href="/clinicos#casos_def_por_edad">señales</a> tempranas del programa
-de vacunación. Sin embargo, el riesgo de una tercera "ola" permanece, y
-hay varios
-<a href="/municipios#top_zm_casos">repuntes a nivel local</a>.
-Por eso es importante mantener todas las medidas de prevención y vacunarnos
-cuando sea nuestro turno.</p>
+descripcion: '<p>Tras meses de descenso sostenido tanto en contagios como en
+<a href="/muertes#muertes_tipomun">fallecimientos</a>, vemos un aumento pequeño
+pero claro en el número de casos a nivel nacional. Hay diferencias entre
+<a href="/estados#estados_casos1">entidades</a>
+pero la tendencia global es clara. No sabemos si se trata del principio de una
+tercera "ola", y hasta cierto punto, es inevitable los contagios aumenten
+cuando mejora el
+<a href="https://coronavirus.gob.mx/semaforo/" target="_blank">semáforo</a>.
+Aún si se trata de una nueva "ola", la vacunación
+<a href="/clinicos#mortalidad_edad_tipomun">está</a>
+<a href="/clinicos#casos_def_por_edad">funcionando</a>,
+por lo que es importante vacunarse tan pronto sea nuestro turno.</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
