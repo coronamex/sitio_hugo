@@ -1,5 +1,5 @@
 ---
-title: 'El mundo ya está en la tercera "ola"'
+title: 'La tercera "ola" repunta en el mundo'
 name: "muertes_mundiales"
 draft: false
 descripcion: '<p>En México ha habido
@@ -12,8 +12,9 @@ entre abril y mayo de 2020, la segunda entre noviembre de 2020 y febrero de
 2021. Durante esta segunda etapa
 llegamos a confirmar cerca de 15 mil defunciones por día debido a COVID-19.
 Desde mediados de marzo de 2021, han ocurrido un nuevo incremento acelerado
-en el número de defunciones globales, que ya está cerca de superar el máximo
-histórico, con Brasil e India como los países más afectados.</p>
+en el número de defunciones globales con Brasil e India como los países más
+afectados, que parecía disminuir. Esta tercera "ola" parecía disminuir, pero
+ha repuntado en junio .</p>
 
 <p>La gráfica muestra el número de muertes (en una ventana deslizante de 7 días)
 en los 9 países con la mayor cantidad de muertes confirmadas por COVID-19,
