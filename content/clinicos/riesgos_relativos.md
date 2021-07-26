@@ -25,7 +25,7 @@ alt: 'Riesgo relativo de hospitalización y de entrar a cuidados
 intensivos por COVID-19 basado en los casos en México para personas
 que mostraron síntomas antes del 1 de abril de 2021. El estimador de
 máxima verosimilitud y el intervalo de confianza de 95% son mostrados.'
-Weight: 400
+Weight: 740
 principal: false
 secciones: ["clínicos"]
 etiquetas: ["nacional", "clínicos", "estimado", "muertes"]

@@ -5,7 +5,7 @@ draft: false
 descripcion: '<p>Aunque todos estamos en riesgo, desde el inicio de la
 pandemia se detectó que las personas mayores de edad están en mayor riesgo.
 En México, el riesgo relativo de fallecer por COVID-19
-<a href="/clinicos#riesgos_relativos">se duplica </a> con cada diez
+<a href="/clinicos#riesgos_relativos_prevac">se duplica </a> con cada diez
 años más de edad.</p>
 
 <p>A lo largo de la pandemia, cerca del 70% de los fallecimientos han ocurrido
