@@ -19,7 +19,7 @@ bien, estos riesgos relativos representan promedios poblacionales
 estos números checa
 <a href="https://github.com/coronamex/visualizando/blob/master/clinicos/rr_monotonic.r" target="_blank">este código</a>.</p>'
 imagen: "imagenes/rr_edad_mes.png"
-imagen2x: "rr_edad_mes@2x.png"
+imagen2x: "imagenes/rr_edad_mes@2x.png"
 alt: 'Gráfica muestra el cambio en el riesgo relativo (razón de momios) por
 grupo de edad a lo largo de varios meses de 2021. Calculado mediante un modelo
 logístico con un término monotónico para la edad y su interacción con el mes.'
