@@ -11,8 +11,10 @@ son diagnosticadas. En
 <a href="https://www.economist.com/graphic-detail/2020/07/15/tracking-covid-19-excess-deaths-across-countries">países</a>
 se ha observado que la pandemia provoca un <i>exceso de mortalidad</i>.</p>
 
-<p>En México, desde el inicio de la pandemia y hasta el 5 de junio de 2021
-se han registrado <b>62% más defunciones</b> que en el mismo periodo de años
+<p>En México, tenemos datos de todo el 2020, y hasta hasta el 10 de
+julio de 2021. Afortunadamente, desde junio de 2021 no se ha detectado un exceso
+de mortalidad. Lamentablemente, en los catorce meses más duros de la epidemia,
+se registraron <b>62% más defunciones</b> que en el mismo periodo de años
 previos.
 Estos números son preliminares ya que el catálogo nacional de defunciones
 tarda dos años en finalizarse.</p>
