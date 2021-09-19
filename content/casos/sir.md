@@ -2,8 +2,9 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>El país se encuentra claramente en una tercera "ola" epidémica,
-con todos los indicadores empeorando, aunque hay
+descripcion: '<p>El país se encuentra claramente en el descenso de
+la tercera "ola" epidémica,
+con todos los indicadores mejorando, aunque hay
 <a href="/estados#estados_casos_100mil">diferencias</a>
 <a href="/estados#estados_casos1">entre estados</a>
 y
