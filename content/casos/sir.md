@@ -2,15 +2,14 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>El país se encuentra claramente en el descenso de
-la tercera "ola" epidémica,
+descripcion: '<p>La epidemia en el país acumula meses en descenso sostenido,
 con todos los indicadores mejorando, aunque hay
 <a href="/estados#estados_casos_100mil">diferencias</a>
 <a href="/estados#estados_casos1">entre estados</a>
 y
 <a href="/municipios#top_zm_casos">zonas metropolitanas</a>.
-Al mismo tiempo, los <a href="/muertes#muertes_tipomun">fallecimientos</a> no
-se han incrementado tan rápidamente como en "olas" anteriores debido a la
+Al mismo tiempo, los <a href="/muertes#muertes_tipomun">fallecimientos</a> se
+mantienen muy por debajo que en momentos anteriores gracias a la
 <a href="/clinicos#mortalidad_edad_tipomun">vacunación</a> .</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
