@@ -3,20 +3,18 @@ title: "La vacunación funciona pero toma tiempo"
 name: "mortalidad_edad_tipomun"
 draft: false
 descripcion: '<p>En México y en el mundo, la vacunación ha sido por orden de edad.
-Las personas de 60 ó más años fueron vacunadas primero desde marzo, y la
-mortalidad en este grupo empezó disminuir a finales de abril, alrededor
-de un mes y medio después del inicio de la vacunación. Algo similar pasó
-con el grupo de personas de 50 ó más años entre los que empezó a haber
-una disminución de la mortalidad hasta mediados de junio. Este retraso sucede
-porque las vacunas tardan semanas en tener un efecto, y la lección más
-importante es que debemos vacunarnos tan pronto sea nuestro turno.</p>
+Como resultado vemos que la mortalidad en la segunda "ola" afectó a toda la
+población, mientras que la tercera "ola" afectó a gente más jóven que todavía
+no se había vacunado.</p>
 
-<p>Al mismo tiempo que la mortalidad ha disminuido en grupos vacunados,
-hemos visto una disminución en la proporción de casos y defunciones
-<a href="/clinicos#casos_def_por_edad">que corresponden esos grupos de edad</a>.
-Todo esto indica que la vacunación está teniendo un efecto directo en el
-control de la epidemia, pero mientras haya mucha gente sin vacunar la epidemia
-no va a desaparecer.</p>'
+<p>Ahora que inicia
+<a href="/casos#sir">la cuarta "ola"</a>
+es importante que la mortalidad no se ha incrementado porque las vacunas
+siguen funcionando. Esto no quiere decir que podamos bajar la guardia porque
+si muchísima gente se contagia, los fallecimientos pueden ser muchos aunque
+representen a una proporción pequeña de los contagios</p>
+
+<p>La lección es que hay que vacunarse cuanto antes si no lo hemos hecho.</p>'
 imagen: "imagenes/mortalidad_edad_tipomun.png"
 imagen2x: "imagenes/mortalidad_edad_tipomun@2x.png"
 alt: 'Mortalidad en ventana móvil de 7 días y como proporción del máximo de

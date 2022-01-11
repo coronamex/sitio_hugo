@@ -11,13 +11,12 @@ por COVID-19 en el país que corresponden al
 metropolitanas. Los fallecimientos continúan a la alza a nivel nacional.</p>
 
 <p>Tras varios meses de descenso sostenido en el número de fallecimientos
-la situación no es crítica a nivel nacional, y hay
-<a href="/clinicos#mortalidad_edad_tipomun">buenas</a>
-<a href="/clinicos#casos_def_por_edad">señales</a> tempranas
-del programa de vacunación. Sin embargo, en el mundo sigue
-<a href="/mundo#muertes_mundiales">en un momento crítico</a>
-y siempre existe el riesgo de que la situación empeore rápidamente, por lo que
-necesario mantener todas las precauciones y vacunarse cuando nos toque.</p>
+la situación no es crítica a nivel nacional, y es claro que
+<a href="/clinicos#mortalidad_edad_tipomun">la vacunación</a>
+<a href="/clinicos#casos_def_por_edad">funciona</a>. Sin embargo, el
+<a href="/casos#sir"> aumento en los contagios</a>,
+significa que hay que mantener todas las precauciones y vacunarse lo antes
+posible.</p>
 
 <p>Los fallecimientos confirmados no son la unica
 consecuencia mortal de la epidemia. El

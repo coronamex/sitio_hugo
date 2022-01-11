@@ -2,15 +2,18 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>La epidemia en el país acumula meses en descenso sostenido,
-con todos los indicadores mejorando, aunque hay
-<a href="/estados#estados_casos_100mil">diferencias</a>
+descripcion: '<p>Desde la última semana del 2021 vemos un incremento acelerado
+en el número de casos reportados. Una combinación de la movilidad por las
+fiestas y la capacidad de Ómicron de infectar incluso a personas vacunadas.
+Afortunadamente la vacunación
+<a href="/clinicos#mortalidad_edad_tipomun">sigue protegiendo</a>
+contra las consecuencias más graves de la enfermedad y no hemos visto un
+incremento en los a href="/muertes#muertes_tipomun">fallecimientos</a>.
+Esto no quiere decir que no haya peligro y debemos vacunarnos si no lo
+hemos hecho. Este patrón se ha reproducido en la mayoría de los
 <a href="/estados#estados_casos1">entre estados</a>
-y
-<a href="/municipios#top_zm_casos">zonas metropolitanas</a>.
-Al mismo tiempo, los <a href="/muertes#muertes_tipomun">fallecimientos</a> se
-mantienen muy por debajo que en momentos anteriores gracias a la
-<a href="/clinicos#mortalidad_edad_tipomun">vacunación</a> .</p>
+y <a href="/municipios#top_zm_casos">zonas metropolitanas</a> del país.
+</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
