@@ -8,7 +8,7 @@ fiestas y la capacidad de Ómicron de infectar incluso a personas vacunadas.
 Afortunadamente la vacunación
 <a href="/clinicos#mortalidad_edad_tipomun">sigue protegiendo</a>
 contra las consecuencias más graves de la enfermedad y no hemos visto un
-incremento en los a href="/muertes#muertes_tipomun">fallecimientos</a>.
+incremento en los <a href="/muertes#muertes_tipomun">fallecimientos</a>.
 Esto no quiere decir que no haya peligro y debemos vacunarnos si no lo
 hemos hecho. Este patrón se ha reproducido en la mayoría de los
 <a href="/estados#estados_casos1">entre estados</a>
