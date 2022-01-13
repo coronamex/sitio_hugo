@@ -1,5 +1,5 @@
 ---
-title: "La segunda ola es diferente"
+title: 'Cada "ola" es diferente'
 name: "muertes_region"
 draft: false
 descripcion: '<p>Cada
