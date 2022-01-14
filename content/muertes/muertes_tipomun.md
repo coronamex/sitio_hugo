@@ -8,7 +8,8 @@ por COVID-19 en el país que corresponden al
 <a href="/municipios#top_zm_casos">otras</a>
 <a href="/municipios#top_zm_casos2">zonas</a>
 <a href="/municipios#top_zm_casos3">metropolitanas</a>, y zonas no
-metropolitanas. Los fallecimientos continúan a la alza a nivel nacional.</p>
+metropolitanas. Los fallecimientos siguen dismimuyendo lentamente,
+pero se espera que esto se revierta durante esta cuarta "ola".</p>
 
 <p>Tras varios meses de descenso sostenido en el número de fallecimientos
 la situación no es crítica a nivel nacional, y es claro que
