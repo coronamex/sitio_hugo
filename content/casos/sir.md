@@ -5,7 +5,7 @@ draft: false
 descripcion: '<p>Desde la última semana del 2021 vemos un increment cada
 vez más acelerado acelerado en el número de casos reportados.
 Esto es causado por una combinación del incremento de la movilidad de las
-personas y las características de transmisibilidad de la variante.
+personas y las características de transmisibilidad de la variante
 Ómicron. Está claro que
 <a href="/clinicos#mortalidad_edad_tipomun">la vacunación funciona</a>
 porque
