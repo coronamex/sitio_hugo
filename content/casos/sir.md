@@ -2,18 +2,17 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>Desde la última semana del 2021 vemos un incremento acelerado
-en el número de casos reportados. Una combinación de la movilidad por las
-fiestas y la capacidad de Ómicron de infectar incluso a personas vacunadas.
-Afortunadamente la vacunación
-<a href="/clinicos#mortalidad_edad_tipomun">sigue protegiendo</a>
-contra las consecuencias más graves de la enfermedad y no hemos visto un
-incremento en los <a href="/muertes#muertes_tipomun">fallecimientos</a>.
-Esto no quiere decir que no haya peligro y debemos vacunarnos si no lo
-hemos hecho. Este patrón se ha reproducido en la mayoría de los
-<a href="/estados#estados_casos1">entre estados</a>
-y <a href="/municipios#top_zm_casos">zonas metropolitanas</a> del país.
-</p>
+descripcion: '<p>Desde la última semana del 2021 vemos un increment cada
+vez más acelerado acelerado en el número de casos reportados.
+Esto es causado por una combinación del incremento de la movilidad de las
+personas y las características de transmisibilidad de la variante.
+Ómicron. Está claro que
+<a href="/clinicos#mortalidad_edad_tipomun">la vacunación funciona</a>
+porque
+<a href="/muertes#muertes_tipomun">la mortalidad no ha aumentado</a>.
+Sin embargo, esto puede cambiar si la epidemia sigue creciendo a este
+ritmo, lo que debes hacer es vacunarte, mantener la sana distancia y,
+si puedes, quédate en casa.</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
