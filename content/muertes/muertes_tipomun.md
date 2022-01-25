@@ -11,8 +11,8 @@ por COVID-19 en el país que corresponden al
 metropolitanas. Los fallecimientos siguen dismimuyendo lentamente,
 pero se espera que esto se revierta durante esta cuarta "ola".</p>
 
-<p>Tras varios meses de descenso sostenido en el número de fallecimientos
-la situación no es crítica a nivel nacional, y es claro que
+<p>La mortalidad ha aumentado durante esta cuarta "ola" aunque se mantiene
+por debajo que en "olas" anteriores. Es claro que
 <a href="/clinicos#mortalidad_edad_tipomun">la vacunación</a>
 <a href="/clinicos#casos_def_por_edad">funciona</a>. Sin embargo, el
 <a href="/casos#sir"> aumento en los contagios</a>,

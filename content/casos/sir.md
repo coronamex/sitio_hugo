@@ -2,14 +2,13 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>Desde la última semana del 2021 vemos un increment cada
-vez más acelerado acelerado en el número de casos reportados.
-Esto es causado por una combinación del incremento de la movilidad de las
-personas y las características de transmisibilidad de la variante
-Ómicron. Está claro que
+descripcion: '<p>Estamos claramente en medio de un incremento acelerado
+en el n↓mero de contagios. Esto es causado por una combinación del incremento
+de la movilidad de las personas y las características de transmisibilidad
+de la variante Ómicron. Está claro que
 <a href="/clinicos#mortalidad_edad_tipomun">la vacunación funciona</a>
 porque
-<a href="/muertes#muertes_tipomun">la mortalidad no ha aumentado</a>.
+<a href="/muertes#muertes_tipomun">la mortalidad ha aumentado menos que en el pasado</a>.
 Sin embargo, esto puede cambiar si la epidemia sigue creciendo a este
 ritmo, lo que debes hacer es vacunarte, mantener la sana distancia y,
 si puedes, quédate en casa.</p>
