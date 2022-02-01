@@ -2,16 +2,15 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>Estamos claramente en medio de un incremento acelerado
-en el n↓mero de contagios. Esto es causado por una combinación del incremento
-de la movilidad de las personas y las características de transmisibilidad
-de la variante Ómicron. Está claro que
-<a href="/clinicos#mortalidad_edad_tipomun">la vacunación funciona</a>
-porque
-<a href="/muertes#muertes_tipomun">la mortalidad ha aumentado menos que en el pasado</a>.
-Sin embargo, esto puede cambiar si la epidemia sigue creciendo a este
-ritmo, lo que debes hacer es vacunarte, mantener la sana distancia y,
-si puedes, quédate en casa.</p>
+descripcion: '<p>Estamos en un momento de gran intensidad de la epidemia.
+Sin embargo, los datos más recientes indican que el número de nuevos
+contagios ha empezado a disminuir, aunque esto no ha sido capturado por
+nuestro modelo matemático. Adicionalmente,
+<a href="/muertes#muertes_tipomun">la mortalidad</a>
+sigue en aumento pero no ha llegado a los niveles del pasado.
+Probablemente hemos pasado el punto más intenso de esta cuarta "ola", pero no
+significa que el riesgo haya desaparecido ni que la tendencia no pueda
+revertirse. Nuestra mejor defensa siguen siendo las vacunas.</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
