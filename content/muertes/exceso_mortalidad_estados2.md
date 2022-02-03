@@ -8,7 +8,7 @@ medir el costo humano en cada entidad.</p>
 
 <p>Estas gráficas muestran el
 <a href="#exceso_mortalidad_nacional"><i>exceso de mortalidad</i></a>
-con datos hasta el 11 de noviembre de 2021 para 24 de las 32 entidades federativas del país.
+con datos hasta el 1 de enero de 2022 para 24 de las 32 entidades federativas del país.
 La región con color indica las semanas con <i>exceso de mortalidad</i>.
 Se indica el número absoluto de exceso de mortalidad para canda entidad y el
 incremento porcentual. Las entidades federativas están organizadas
