@@ -3,8 +3,8 @@ title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
 descripcion: '<p>Estamos en un momento de gran intensidad de la epidemia.
-Sin embargo, los datos más recientes indican que el número de nuevos
-contagios ha empezado a disminuir, aunque esto no ha sido capturado por
+Sin embargo, los datos más recientes indican que <b><u>el número de nuevos
+contagios ha empezado a disminuir</u></b>, aunque esto no ha sido capturado por
 nuestro modelo matemático. Adicionalmente,
 <a href="/muertes#muertes_tipomun">la mortalidad</a>
 sigue en aumento pero no ha llegado a los niveles del pasado.
