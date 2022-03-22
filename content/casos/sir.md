@@ -2,15 +2,11 @@
 title: "¿Cuál es el estado de la epidemia?"
 name: "sir"
 draft: false
-descripcion: '<p>Estamos en un momento de gran intensidad de la epidemia.
-Sin embargo, los datos más recientes indican que <b><u>el número de nuevos
-contagios ha empezado a disminuir</u></b>, aunque esto no ha sido capturado por
-nuestro modelo matemático. Adicionalmente,
-<a href="/muertes#muertes_tipomun">la mortalidad</a>
-sigue en aumento pero no ha llegado a los niveles del pasado.
-Probablemente hemos pasado el punto más intenso de esta cuarta "ola", pero no
-significa que el riesgo haya desaparecido ni que la tendencia no pueda
-revertirse. Nuestra mejor defensa siguen siendo las vacunas.</p>
+descripcion: '<p>En estos momentos la actividad epidémica es relativamente
+baja, y todos los indicadores se encuentra claramente cerca de sus mínimos
+históricos. Esto no significa que el COVID-19 haya sido o vaya a ser erradicado,
+y lo más probable es que en el algún momento del futuro los contagios vuelva
+a aumentar. Nuestra mejor defensa siguen siendo las vacunas.</p>
 
 <p>La gráfica muestra el número de casos registrados (barras) y utiliza
 <a href="https://gabgoh.github.io/COVID/index.html" target="_blank">modelo epidemiológico SEIR</a>
